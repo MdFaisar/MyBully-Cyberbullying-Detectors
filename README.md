@@ -23,13 +23,12 @@ A Flask web app that detects cyberbullying in text messages using a BERT (Bidire
 │   ├── cyberbullying_dataset.csv    # Training dataset
 │   ├── cyberbullying_dataset_test.csv # Test dataset
 │   └── feedback.csv          # User-submitted feedback
-├── models/
-│   └── bert_cyberbullying/   # BERT model files
-│       ├── config.json
-│       ├── pytorch_model.bin
-│       ├── tokenizer_config.json
-│       ├── vocab.txt
-│       └── special_tokens_map.json
+├── models/                   # BERT model files 
+│    ├── config.json
+│    ├── pytorch_model.bin
+│    ├── tokenizer_config.json
+│    ├── vocab.txt
+│    └── special_tokens_map.json
 ├── static/                   # Front-end assets
 │   ├── css/
 │   │   └── style.css
@@ -43,7 +42,7 @@ A Flask web app that detects cyberbullying in text messages using a BERT (Bidire
 
 ## What this project does
 
-- Trains a TF-IDF + Logistic Regression classifier to detect bullying vs non-bullying messages.
+- Trains a BERT model to detect bullying vs non-bullying messages.
 - Serves a REST API (`/api/analyze`) to analyze a text and return prediction, confidence, and severity.
 - Lets users provide feedback (Correct/Wrong). Feedback is saved to `dataset/feedback.csv` and used to update the model. The update routine combines the original dataset and recent feedback so the model keeps base knowledge while learning from user corrections.
 
@@ -165,7 +164,7 @@ Check `app.py` for implementation details and any additional endpoints exposed b
 5. Create a new Pull Request
 
 
-## OCR Image Upload (New)
+## OCR Image Upload
 
 This project now includes an OCR feature that allows you to upload an image (PNG/JPEG) and extract text using Tesseract OCR, then analyze the extracted text with the model.
 
@@ -189,4 +188,5 @@ API endpoint:
 - POST /api/ocr
    - Input: multipart/form-data with key `image` containing an image file (PNG/JPEG)
    - Output: JSON { "extracted_text": "...", "analysis": { <same keys as /api/analyze> }, "success": true }
+
    - Behavior: Extracts text from the uploaded image and runs the same text analysis pipeline, returning both the extracted text and the model's prediction.
