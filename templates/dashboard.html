@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Cyberbullying Detector</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        .drop-zone {
+            border: 2px dashed #ccc;
+            border-radius: 10px;
+            padding: 40px;
+            text-align: center;
+            margin-top: 6px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: #fafafa;
+        }
+        .drop-zone:hover {
+            border-color: #6366f1;
+            background: #f5f5ff;
+        }
+        .drop-zone.dragging {
+            border-color: #6366f1;
+            background: #f0f0ff;
+            border-style: solid;
+        }
+        .drop-zone p {
+            margin: 0;
+            color: #666;
+            font-size: 0.95rem;
+        }
+        .drop-zone .upload-icon {
+            font-size: 48px;
+            margin-bottom: 10px;
+            color: #999;
+        }
+        .drop-zone .file-name {
+            margin-top: 10px;
+            color: #6366f1;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-page">
+        <!-- Header -->
+        <header class="dashboard-header">
+            <div class="container">
+                <div class="header-content">
+                    <div class="logo">
+                        <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                            <rect width="32" height="32" rx="8" fill="#6366f1"/>
+                            <path d="M16 8L8 16L16 24L24 16L16 8Z" fill="white"/>
+                        </svg>
+                        <span>BullyGuard</span>
+                    </div>
+                    <div class="header-actions">
+                        <a href="/" class="btn btn-secondary btn-sm">← Back to Home</a>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="container">
+            <div class="dashboard-content">
+                <!-- Title Section -->
+                <div class="dashboard-title">
+                    <h1>Cyberbullying Detection Dashboard</h1>
+                    <p>Analyze text content for potential cyberbullying using our trained model</p>
+                </div>
+
+                <!-- Tabs: Text / Image -->
+                <div class="analysis-tabs" style="margin:18px 0 6px 0; text-align:left;">
+                    <button id="tabText" class="tab active" style="padding:8px 14px;border-radius:6px;border:1px solid #e6e6f0;background:#fff;margin-right:8px;">Text Analysis</button>
+                    <button id="tabImage" class="tab" style="padding:8px 14px;border-radius:6px;border:1px solid transparent;background:transparent;color:#555;">Image Analysis</button>
+                </div>
+
+                {% if error %}
+                <div class="error-banner">
+                    <div class="error-icon">⚠️</div>
+                    <div class="error-content">
+                        <h3>Model Not Available</h3>
+                        <p>{{ error }}</p>
+                        <p>Please run <code>python train_model.py</code> to train the model first.</p>
+                    </div>
+                </div>
+                {% else %}
+
+                <!-- Main Analysis Section -->
+                <div class="analysis-section">
+                    <div class="input-card">
+                        <div class="card-header">
+                            <h2>Text Analysis</h2>
+                            <p>Enter text to analyze for cyberbullying content</p>
+                        </div>
+
+                        <div class="input-group">
+                            <label for="textInput">Enter Text</label>
+                            <textarea id="textInput" placeholder="Type or paste the text you want to analyze here..." rows="6"></textarea>
+                            <div class="input-footer">
+                                <span id="charCount" class="char-count">0 characters</span>
+                            </div>
+                        </div>
+
+                        <div class="button-group">
+                            <button id="analyzeBtn" class="btn btn-primary">
+                                <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                                    <circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="2"/>
+                                    <path d="M12.5 12.5L17 17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                                </svg>
+                                Analyze Text
+                            </button>
+                            <button id="clearBtn" class="btn btn-secondary">Clear</button>
+                        </div>
+
+                        <!-- OCR Upload -->
+                        <div class="ocr-upload" style="margin-top:18px;padding-top:12px;border-top:1px solid #eee;">
+                            <label for="imageInput">Upload an image (PNG/JPEG) containing text</label>
+                            <div class="drop-zone" id="dropZone">
+                                <div class="upload-icon">📤</div>
+                                <p>Drag & drop an image here, or click to select a file</p>
+                                <div class="file-name" id="fileName" style="display:none;"></div>
+                                <input type="file" id="imageInput" accept="image/*" style="display:none;" />
+                            </div>
+                            <div style="margin-top:8px;">
+                                <button id="uploadImgBtn" class="btn btn-primary">Analyze Image</button>
+                                <span id="ocrStatus" style="margin-left:12px;color:#666;font-size:0.95rem"></span>
+                            </div>
+                        </div>
+
+                        <!-- Sample Texts -->
+                        <div class="sample-texts">
+                            <div class="sample-header">
+                                <h3>Try Sample Texts:</h3>
+                            </div>
+                            <div class="sample-buttons">
+                                <button class="sample-btn" data-text="You're doing a great job! Keep it up!">
+                                    Positive Sample
+                                </button>
+                                <button class="sample-btn" data-text="You're so stupid and worthless">
+                                    Negative Sample
+                                </button>
+                                <button class="sample-btn" data-text="Let's work together on this project">
+                                    Neutral Sample
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Results Section -->
+                    <div id="resultsCard" class="results-card" style="display: none;">
+                        <div class="card-header">
+                            <h2>Analysis Results</h2>
+                        </div>
+                        <div id="resultsContent" class="results-content">
+                            <!-- Results will be inserted here by JavaScript -->
+                        </div>
+                    </div>
+
+                    <!-- Loading Indicator -->
+                    <div id="loadingIndicator" class="loading-indicator" style="display: none;">
+                        <div class="spinner"></div>
+                        <p>Analyzing text...</p>
+                    </div>
+                </div>
+
+                <!-- History Section -->
+                <div class="history-section">
+                    <div class="card-header">
+                        <h2>Analysis History</h2>
+                        <button id="clearHistoryBtn" class="btn btn-secondary btn-sm">Clear History</button>
+                    </div>
+                    <div id="historyList" class="history-list">
+                        <div class="empty-state">
+                            <svg width="64" height="64" viewBox="0 0 64 64" fill="none">
+                                <circle cx="32" cy="32" r="30" stroke="#e5e7eb" stroke-width="2"/>
+                                <path d="M32 20V32L40 40" stroke="#e5e7eb" stroke-width="2" stroke-linecap="round"/>
+                            </svg>
+                            <p>No analysis history yet</p>
+                            <span>Start analyzing text to see your history here</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Info Cards -->
+                <div class="info-cards">
+                    <div class="info-card">
+                        <div class="info-icon">📊</div>
+                        <h3>How It Works</h3>
+                        <p>Our model analyzes text using natural language processing to detect patterns associated with cyberbullying.</p>
+                    </div>
+                    <div class="info-card">
+                        <div class="info-icon">🎯</div>
+                        <h3>Accuracy</h3>
+                        <p>The model provides confidence scores to help you understand the certainty of each prediction.</p>
+                    </div>
+                    <div class="info-card">
+                        <div class="info-icon">🔒</div>
+                        <h3>Privacy</h3>
+                        <p>Text is analyzed locally and not stored on our servers, ensuring your privacy is protected.</p>
+                    </div>
+                </div>
+
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Character counter
+        const textInput = document.getElementById('textInput');
+        const charCount = document.getElementById('charCount');
+        const analyzeBtn = document.getElementById('analyzeBtn');
+        const clearBtn = document.getElementById('clearBtn');
+        const resultsCard = document.getElementById('resultsCard');
+        const resultsContent = document.getElementById('resultsContent');
+        const loadingIndicator = document.getElementById('loadingIndicator');
+        const historyList = document.getElementById('historyList');
+        const clearHistoryBtn = document.getElementById('clearHistoryBtn');
+        const sampleBtns = document.querySelectorAll('.sample-btn');
+
+        let analysisHistory = JSON.parse(localStorage.getItem('analysisHistory')) || [];
+
+        // Update character count
+        textInput.addEventListener('input', () => {
+            const count = textInput.value.length;
+            charCount.textContent = `${count} character${count !== 1 ? 's' : ''}`;
+        });
+
+        // Sample text buttons
+        sampleBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                textInput.value = btn.dataset.text;
+                textInput.dispatchEvent(new Event('input'));
+            });
+        });
+
+        // Clear button
+        clearBtn.addEventListener('click', () => {
+            textInput.value = '';
+            textInput.dispatchEvent(new Event('input'));
+            resultsCard.style.display = 'none';
+        });
+
+        // Analyze button
+        analyzeBtn.addEventListener('click', async () => {
+            const text = textInput.value.trim();
+            
+            if (!text) {
+                alert('Please enter some text to analyze');
+                return;
+            }
+
+            // Show loading
+            loadingIndicator.style.display = 'flex';
+            resultsCard.style.display = 'none';
+            analyzeBtn.disabled = true;
+
+            try {
+                const response = await fetch('/api/analyze', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ text: text })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    displayResults(data, text);
+                    addToHistory(text, data);
+                } else {
+                    alert('Error: ' + (data.error || 'Unknown error occurred'));
+                }
+            } catch (error) {
+                alert('Error analyzing text: ' + error.message);
+            } finally {
+                loadingIndicator.style.display = 'none';
+                analyzeBtn.disabled = false;
+            }
+        });
+
+        // Display results
+        function displayResults(data, text) {
+            const isBullying = data.prediction === 'Bullying';
+            const severityClass = isBullying ? `severity-${data.severity}` : 'severity-none';
+            
+            resultsContent.innerHTML = `
+                <div class="result-header ${severityClass}">
+                    <div class="result-badge ${isBullying ? 'badge-danger' : 'badge-success'}">
+                        ${isBullying ? '⚠️' : '✓'} ${data.prediction}
+                    </div>
+                    ${isBullying ? `<div class="severity-label">Severity: ${data.severity.toUpperCase()}</div>` : ''}
+                </div>
+
+                <div class="analyzed-text">
+                    <h3>Analyzed Text:</h3>
+                    <p>"${text}"</p>
+                </div>
+
+                <div class="confidence-meter">
+                    <div class="meter-header">
+                        <span>Confidence Level</span>
+                        <span class="confidence-value">${data.confidence}%</span>
+                    </div>
+                    <div class="meter-bar">
+                        <div class="meter-fill ${isBullying ? 'meter-danger' : 'meter-success'}" 
+                             style="width: ${data.confidence}%"></div>
+                    </div>
+                </div>
+
+                <div class="probability-breakdown">
+                    <h3>Probability Breakdown:</h3>
+                    <div class="probability-item">
+                        <span>Non-Bullying</span>
+                        <div class="probability-bar">
+                            <div class="probability-fill bg-success" 
+                                 style="width: ${data.probabilities.non_bullying}%"></div>
+                        </div>
+                        <span class="probability-value">${data.probabilities.non_bullying}%</span>
+                    </div>
+                    <div class="probability-item">
+                        <span>Bullying</span>
+                        <div class="probability-bar">
+                            <div class="probability-fill bg-danger" 
+                                 style="width: ${data.probabilities.bullying}%"></div>
+                        </div>
+                        <span class="probability-value">${data.probabilities.bullying}%</span>
+                    </div>
+                </div>
+
+                ${isBullying ? `
+                    <div class="warning-message">
+                        <div class="warning-icon">⚠️</div>
+                        <div class="warning-content">
+                            <h4>Potential Cyberbullying Detected</h4>
+                            <p>This text has been identified as potentially harmful. Consider reviewing and moderating this content.</p>
+                        </div>
+                    </div>
+                ` : `
+                    <div class="success-message">
+                        <div class="success-icon">✓</div>
+                        <div class="success-content">
+                            <h4>No Cyberbullying Detected</h4>
+                            <p>This text appears to be appropriate and non-harmful.</p>
+                        </div>
+                    </div>
+                `}
+
+                <div class="correction-buttons" style="margin-top: 24px;">
+                    <button id="correctBtn" class="btn btn-success">Correct</button>
+                    <button id="wrongBtn" class="btn btn-danger">Wrong</button>
+                    <span id="correctionMsg" style="margin-left:16px;color:#6366f1;font-weight:500;"></span>
+                </div>
+            `;
+
+            resultsCard.style.display = 'block';
+            resultsCard.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+
+            // Add event listeners for correction buttons
+            setTimeout(() => {
+                const correctBtn = document.getElementById('correctBtn');
+                const wrongBtn = document.getElementById('wrongBtn');
+                const correctionMsg = document.getElementById('correctionMsg');
+
+                if (correctBtn && wrongBtn) {
+                    correctBtn.onclick = async function() {
+                        correctionMsg.textContent = 'Submitting feedback...';
+                        await sendCorrection(text, data.prediction, 'correct', correctionMsg);
+                    };
+                    wrongBtn.onclick = async function() {
+                        correctionMsg.textContent = 'Submitting feedback...';
+                        await sendCorrection(text, data.prediction, 'wrong', correctionMsg);
+                    };
+                }
+            }, 100);
+        }
+
+        async function sendCorrection(text, original_prediction, user_correction, msgElem) {
+            try {
+                const response = await fetch('/api/correct', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ text, original_prediction, user_correction })
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    msgElem.textContent = 'Thank you for your feedback!';
+                } else {
+                    msgElem.textContent = 'Error: ' + (data.error || 'Could not submit feedback');
+                }
+            } catch (err) {
+                msgElem.textContent = 'Error: ' + err.message;
+            }
+        }
+
+        // Add to history
+        function addToHistory(text, data) {
+            const historyItem = {
+                text: text.substring(0, 100) + (text.length > 100 ? '...' : ''),
+                prediction: data.prediction,
+                confidence: data.confidence,
+                timestamp: new Date().toISOString(),
+                isBullying: data.prediction === 'Bullying'
+            };
+
+            analysisHistory.unshift(historyItem);
+            if (analysisHistory.length > 10) {
+                analysisHistory = analysisHistory.slice(0, 10);
+            }
+
+            localStorage.setItem('analysisHistory', JSON.stringify(analysisHistory));
+            renderHistory();
+        }
+
+        // Render history
+        function renderHistory() {
+            if (analysisHistory.length === 0) {
+                historyList.innerHTML = `
+                    <div class="empty-state">
+                        <svg width="64" height="64" viewBox="0 0 64 64" fill="none">
+                            <circle cx="32" cy="32" r="30" stroke="#e5e7eb" stroke-width="2"/>
+                            <path d="M32 20V32L40 40" stroke="#e5e7eb" stroke-width="2" stroke-linecap="round"/>
+                        </svg>
+                        <p>No analysis history yet</p>
+                        <span>Start analyzing text to see your history here</span>
+                    </div>
+                `;
+                return;
+            }
+
+            historyList.innerHTML = analysisHistory.map(item => {
+                const date = new Date(item.timestamp);
+                const timeStr = date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+                const dateStr = date.toLocaleDateString();
+
+                return `
+                    <div class="history-item">
+                        <div class="history-badge ${item.isBullying ? 'badge-danger' : 'badge-success'}">
+                            ${item.isBullying ? '⚠️' : '✓'}
+                        </div>
+                        <div class="history-content">
+                            <p class="history-text">"${item.text}"</p>
+                            <div class="history-meta">
+                                <span class="history-prediction">${item.prediction}</span>
+                                <span class="history-confidence">${item.confidence}% confidence</span>
+                                <span class="history-time">${dateStr} at ${timeStr}</span>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // Clear history
+        clearHistoryBtn.addEventListener('click', () => {
+            if (confirm('Are you sure you want to clear all analysis history?')) {
+                analysisHistory = [];
+                localStorage.removeItem('analysisHistory');
+                renderHistory();
+            }
+        });
+
+        // Initial render
+        renderHistory();
+
+        // Tabs logic: show/hide panels and set active tab
+        const tabText = document.getElementById('tabText');
+        const tabImage = document.getElementById('tabImage');
+        
+        // Scope selectors to the input card so other card-header elements are not affected
+        const inputCard = document.querySelector('.input-card');
+        const cardHeader = inputCard ? inputCard.querySelector('.card-header') : null;
+        const inputGroup = inputCard ? inputCard.querySelector('.input-group') : null;
+        const buttonGroup = inputCard ? inputCard.querySelector('.button-group') : null;
+        const ocrUpload = inputCard ? inputCard.querySelector('.ocr-upload') : null;
+        const sampleTexts = inputCard ? inputCard.querySelector('.sample-texts') : null;
+
+        function setActiveTab(tab) {
+            if (!inputCard) return;
+            
+            if (tab === 'text') {
+                tabText.classList.add('active');
+                tabText.style.borderColor = '#e6e6f0';
+                tabText.style.background = '#fff';
+                tabImage.classList.remove('active');
+                tabImage.style.borderColor = 'transparent';
+                tabImage.style.background = 'transparent';
+
+                // Text mode: show text input, header and buttons, hide OCR upload
+                if (cardHeader) {
+                    const h2 = cardHeader.querySelector('h2');
+                    const p = cardHeader.querySelector('p');
+                    if (h2) h2.textContent = 'Text Analysis';
+                    if (p) p.textContent = 'Enter text to analyze for cyberbullying content';
+                }
+                if (inputGroup) inputGroup.style.display = 'block';
+                if (buttonGroup) buttonGroup.style.display = 'flex';
+                if (sampleTexts) sampleTexts.style.display = 'block';
+                if (ocrUpload) ocrUpload.style.display = 'none';
+            } else if (tab === 'image') {
+                tabImage.classList.add('active');
+                tabImage.style.borderColor = '#e6e6f0';
+                tabImage.style.background = '#fff';
+                tabText.classList.remove('active');
+                tabText.style.borderColor = 'transparent';
+                tabText.style.background = 'transparent';
+
+                // Image mode: change header and hide text-related controls; show OCR upload only
+                if (cardHeader) {
+                    const h2 = cardHeader.querySelector('h2');
+                    const p = cardHeader.querySelector('p');
+                    if (h2) h2.textContent = 'Image Analysis';
+                    if (p) p.textContent = 'Upload an image and extract text for analysis';
+                }
+                if (inputGroup) inputGroup.style.display = 'none';
+                if (buttonGroup) buttonGroup.style.display = 'none';
+                if (sampleTexts) sampleTexts.style.display = 'none';
+                if (ocrUpload) ocrUpload.style.display = 'block';
+            }
+        }
+
+        // Default - ensure OCR upload is hidden initially
+        if (ocrUpload) ocrUpload.style.display = 'none';
+        setActiveTab('text');
+
+        tabText.addEventListener('click', () => setActiveTab('text'));
+        tabImage.addEventListener('click', () => setActiveTab('image'));
+
+        // Drag and Drop Functionality
+        const dropZone = document.getElementById('dropZone');
+        const imageInput = document.getElementById('imageInput');
+        const fileName = document.getElementById('fileName');
+        const uploadImgBtn = document.getElementById('uploadImgBtn');
+        const ocrStatus = document.getElementById('ocrStatus');
+
+        // Click to upload
+        dropZone.addEventListener('click', () => {
+            imageInput.click();
+        });
+
+        // File input change
+        imageInput.addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (file) {
+                displayFileName(file.name);
+            }
+        });
+
+        // Prevent default drag behaviors
+        ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
+            dropZone.addEventListener(eventName, preventDefaults, false);
+            document.body.addEventListener(eventName, preventDefaults, false);
+        });
+
+        function preventDefaults(e) {
+            e.preventDefault();
+            e.stopPropagation();
+        }
+
+        // Highlight drop zone when dragging over it
+        ['dragenter', 'dragover'].forEach(eventName => {
+            dropZone.addEventListener(eventName, () => {
+                dropZone.classList.add('dragging');
+            }, false);
+        });
+
+        ['dragleave', 'drop'].forEach(eventName => {
+            dropZone.addEventListener(eventName, () => {
+                dropZone.classList.remove('dragging');
+            }, false);
+        });
+
+        // Handle dropped files
+        dropZone.addEventListener('drop', (e) => {
+            const dt = e.dataTransfer;
+            const files = dt.files;
+
+            if (files.length > 0) {
+                const file = files[0];
+                
+                // Check if it's an image
+                if (file.type.startsWith('image/')) {
+                    imageInput.files = files;
+                    displayFileName(file.name);
+                } else {
+                    alert('Please upload an image file (PNG/JPEG)');
+                }
+            }
+        });
+
+        function displayFileName(name) {
+            fileName.textContent = `Selected: ${name}`;
+            fileName.style.display = 'block';
+        }
+
+        // OCR: handle image upload and analysis
+        uploadImgBtn.addEventListener('click', async () => {
+            const file = imageInput.files[0];
+            
+            if (!file) {
+                alert('Please choose an image file to analyze');
+                return;
+            }
+
+            const formData = new FormData();
+            formData.append('image', file);
+
+            // Show loading
+            ocrStatus.textContent = 'Extracting text...';
+            loadingIndicator.style.display = 'flex';
+            resultsCard.style.display = 'none';
+            uploadImgBtn.disabled = true;
+
+            try {
+                const response = await fetch('/api/ocr', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+
+                if (data.success) {
+                    const extracted = data.extracted_text || '';
+                    ocrStatus.textContent = extracted ? 'Text extracted' : 'No text found in image';
+                    
+                    const analysis = data.analysis;
+                    
+                    // Show results using the same renderer
+                    displayResults(analysis, extracted);
+                    if (extracted) addToHistory(extracted, analysis);
+                } else {
+                    alert('OCR error: ' + (data.error || 'Unknown error'));
+                    ocrStatus.textContent = '';
+                }
+            } catch (err) {
+                alert('An error occurred while uploading image: ' + err.message);
+                ocrStatus.textContent = '';
+            } finally {
+                loadingIndicator.style.display = 'none';
+                uploadImgBtn.disabled = false;
+            }
+        });
+    </script>
+</body>
+</html>

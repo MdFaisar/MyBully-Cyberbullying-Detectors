@@ -1,0 +1,1390 @@
+text,label
+moron,1
+kind,0
+stupid idiot,1
+good friend,0
+you are worthless,1
+you are amazing,0
+nobody wants you around,1
+everyone appreciates you,0
+kill yourself now,1
+take care of yourself,0
+you're a failure,1
+you're successful,0
+ugly freak,1
+beautiful soul,0
+disgusting creature,1
+wonderful person,0
+worthless piece,1
+valuable member,0
+pathetic loser,1
+impressive winner,0
+complete waste,1
+total asset,0
+brainless fool,1
+brilliant mind,0
+talentless hack,1
+talented individual,0
+hopeless case,1
+promising future,0
+useless trash,1
+helpful resource,0
+annoying pest,1
+pleasant company,0
+toxic presence,1
+positive influence,0
+vile human,1
+decent human,0
+rotten inside,1
+pure hearted,0
+evil minded,1
+good natured,0
+cruel person,1
+compassionate soul,0
+heartless monster,1
+caring individual,0
+mean spirit,1
+kind spirit,0
+nasty attitude,1
+friendly attitude,0
+rude behavior,1
+polite behavior,0
+disrespectful jerk,1
+respectful person,0
+arrogant fool,1
+humble scholar,0
+selfish pig,1
+generous giver,0
+greedy bastard,1
+sharing person,0
+jealous freak,1
+supportive friend,0
+envious snake,1
+content being,0
+angry bull,1
+peaceful soul,0
+violent threat,1
+gentle touch,0
+aggressive bully,1
+passive peacemaker,0
+hateful words,1
+loving words,0
+bitter remarks,1
+sweet comments,0
+sour personality,1
+sweet personality,0
+cold hearted,1
+warm hearted,0
+distant memory,1
+close bond,0
+detached emotion,1
+connected feeling,0
+isolated existence,1
+social butterfly,0
+lonely path,1
+surrounded love,0
+alone forever,1
+together always,0
+separated permanently,1
+included completely,0
+excluded intentionally,1
+welcomed warmly,0
+unwanted guest,1
+wanted presence,0
+needed nowhere,1
+needed everywhere,0
+desired never,1
+desired always,0
+loved by none,1
+loved by all,0
+hated universally,1
+hated by none,0
+despised being,1
+admired person,0
+respected never,1
+respected always,0
+honored absent,1
+honored present,0
+valued zero,1
+valued highly,0
+appreciated never,1
+appreciated daily,0
+recognized negatively,1
+recognized positively,0
+acknowledged poorly,1
+acknowledged properly,0
+noticed for wrong,1
+noticed for right,0
+seen as problem,1
+seen as solution,0
+heard complaining,1
+heard contributing,0
+listened to nonsense,1
+listened to wisdom,0
+understood wrongly,1
+understood correctly,0
+got nothing right,1
+got everything right,0
+comprehended zero,1
+comprehended fully,0
+known as failure,1
+known as success,0
+remembered badly,1
+remembered fondly,0
+forgotten intentionally,1
+remembered always,0
+missed by none,1
+missed by all,0
+wanted gone,1
+wanted here,0
+desired away,1
+desired near,0
+loved conditionally,1
+loved unconditionally,0
+hated passionately,1
+loved deeply,0
+liked by few,1
+liked by many,0
+disliked by all,1
+disliked by none,0
+preferred last,1
+preferred first,0
+chosen never,1
+chosen always,0
+picked last,1
+picked first,0
+selected poorly,1
+selected wisely,0
+elected never,1
+elected unanimously,0
+voted against,1
+voted for,0
+supported weakly,1
+supported strongly,0
+backed poorly,1
+backed fully,0
+helped minimally,1
+helped greatly,0
+assisted badly,1
+assisted well,0
+aided poorly,1
+aided effectively,0
+guided wrongly,1
+guided correctly,0
+directed poorly,1
+directed properly,0
+led astray,1
+led properly,0
+managed badly,1
+managed well,0
+organized chaos,1
+organized perfection,0
+arranged poorly,1
+arranged neatly,0
+sorted messily,1
+sorted perfectly,0
+classified wrong,1
+classified right,0
+categorized poorly,1
+categorized accurately,0
+grouped incorrectly,1
+grouped properly,0
+bunched messily,1
+bunched neatly,0
+clustered poorly,1
+clustered well,0
+collected disorder,1
+collected order,0
+gathered poorly,1
+gathered well,0
+assembled broken,1
+assembled whole,0
+built weak,1
+built strong,0
+constructed poorly,1
+constructed well,0
+made fragile,1
+made durable,0
+created temporary,1
+created permanent,0
+designed ugly,1
+designed beautiful,0
+planned poorly,1
+planned well,0
+thought out bad,1
+thought out good,0
+considered lightly,1
+considered deeply,0
+pondered briefly,1
+pondered thoroughly,0
+reflected shallow,1
+reflected deep,0
+meditated rarely,1
+meditated often,0
+contemplated never,1
+contemplated always,0
+mused rarely,1
+mused often,0
+ruminated never,1
+ruminated often,0
+deliberated poorly,1
+deliberated well,0
+decided hastily,1
+decided carefully,0
+chosen randomly,1
+chosen wisely,0
+picked carelessly,1
+picked thoughtfully,0
+selected poorly,1
+selected well,0
+elected wrongly,1
+elected rightly,0
+voted foolishly,1
+voted smartly,0
+supported blindly,1
+supported wisely,0
+backed foolishly,1
+backed intelligently,0
+helped poorly,1
+helped effectively,0
+assisted badly,1
+assisted well,0
+aided incorrectly,1
+aided correctly,0
+guided poorly,1
+guided well,0
+directed wrongly,1
+directed rightly,0
+led astray,1
+led properly,0
+managed poorly,1
+managed excellently,0
+organized badly,1
+organized perfectly,0
+arranged poorly,1
+arranged beautifully,0
+sorted messily,1
+sorted neatly,0
+classified incorrectly,1
+classified accurately,0
+categorized wrongly,1
+categorized correctly,0
+grouped poorly,1
+grouped ideally,0
+bunched messily,1
+bunched neatly,0
+clustered poorly,1
+clustered well,0
+collected messily,1
+collected neatly,0
+gathered poorly,1
+gathered well,0
+assembled badly,1
+assembled perfectly,0
+built poorly,1
+built excellently,0
+constructed badly,1
+constructed wonderfully,0
+made poorly,1
+made excellently,0
+created badly,1
+created beautifully,0
+designed poorly,1
+designed wonderfully,0
+planned badly,1
+planned perfectly,0
+thought out poorly,1
+thought out excellently,0
+considered poorly,1
+considered thoroughly,0
+pondered poorly,1
+pondered deeply,0
+reflected poorly,1
+reflected wisely,0
+meditated poorly,1
+meditated deeply,0
+contemplated poorly,1
+contemplated deeply,0
+mused poorly,1
+mused thoughtfully,0
+ruminated poorly,1
+ruminated wisely,0
+deliberated poorly,1
+deliberated carefully,0
+decided poorly,1
+decided wisely,0
+chosen poorly,1
+chosen perfectly,0
+picked poorly,1
+picked ideally,0
+selected poorly,1
+selected perfectly,0
+elected poorly,1
+elected wisely,0
+voted poorly,1
+voted intelligently,0
+supported poorly,1
+supported strongly,0
+backed poorly,1
+backed fully,0
+helped poorly,1
+helped greatly,0
+assisted poorly,1
+assisted effectively,0
+aided poorly,1
+aided significantly,0
+guided poorly,1
+guided expertly,0
+directed poorly,1
+directed skillfully,0
+led poorly,1
+led masterfully,0
+managed poorly,1
+managed superbly,0
+organized poorly,1
+organized flawlessly,0
+arranged poorly,1
+arranged perfectly,0
+sorted poorly,1
+sorted impeccably,0
+classified poorly,1
+classified accurately,0
+categorized poorly,1
+categorized precisely,0
+grouped poorly,1
+grouped ideally,0
+bunched poorly,1
+bunched perfectly,0
+clustered poorly,1
+clustered ideally,0
+collected poorly,1
+collected perfectly,0
+gathered poorly,1
+gathered ideally,0
+assembled poorly,1
+assembled flawlessly,0
+built poorly,1
+built masterfully,0
+constructed poorly,1
+constructed excellently,0
+made poorly,1
+made perfectly,0
+created poorly,1
+created wonderfully,0
+designed poorly,1
+designed beautifully,0
+planned poorly,1
+planned meticulously,0
+thought out poorly,1
+thought out thoroughly,0
+considered poorly,1
+considered completely,0
+pondered poorly,1
+pondered deeply,0
+reflected poorly,1
+reflected wisely,0
+meditated poorly,1
+meditated deeply,0
+contemplated poorly,1
+contemplated thoroughly,0
+mused poorly,1
+mused thoughtfully,0
+ruminated poorly,1
+ruminated deeply,0
+deliberated poorly,1
+deliberated carefully,0
+decided poorly,1
+decided wisely,0
+chosen poorly,1
+chosen perfectly,0
+picked poorly,1
+picked ideally,0
+selected poorly,1
+selected excellently,0
+elected poorly,1
+elected wisely,0
+voted poorly,1
+voted intelligently,0
+supported poorly,1
+supported strongly,0
+backed poorly,1
+backed fully,0
+helped poorly,1
+helped greatly,0
+assisted poorly,1
+assisted effectively,0
+aided poorly,1
+aided significantly,0
+guided poorly,1
+guided expertly,0
+directed poorly,1
+directed skillfully,0
+led poorly,1
+led masterfully,0
+managed poorly,1
+managed superbly,0
+organized poorly,1
+organized flawlessly,0
+arranged poorly,1
+arranged perfectly,0
+sorted poorly,1
+sorted impeccably,0
+classified poorly,1
+classified accurately,0
+categorized poorly,1
+categorized precisely,0
+grouped poorly,1
+grouped ideally,0
+bunched poorly,1
+bunched perfectly,0
+clustered poorly,1
+clustered ideally,0
+collected poorly,1
+collected perfectly,0
+gathered poorly,1
+gathered ideally,0
+assembled poorly,1
+assembled flawlessly,0
+built poorly,1
+built masterfully,0
+constructed poorly,1
+constructed excellently,0
+made poorly,1
+made perfectly,0
+created poorly,1
+created wonderfully,0
+designed poorly,1
+designed beautifully,0
+planned poorly,1
+planned meticulously,0
+thought out poorly,1
+thought out thoroughly,0
+considered poorly,1
+considered completely,0
+pondered poorly,1
+pondered deeply,0
+reflected poorly,1
+reflected wisely,0
+meditated poorly,1
+meditated deeply,0
+contemplated poorly,1
+contemplated thoroughly,0
+mused poorly,1
+mused thoughtfully,0
+ruminated poorly,1
+ruminated deeply,0
+deliberated poorly,1
+deliberated carefully,0
+decided poorly,1
+decided wisely,0
+chosen poorly,1
+chosen perfectly,0
+picked poorly,1
+picked ideally,0
+selected poorly,1
+selected excellently,0
+elected poorly,1
+elected wisely,0
+voted poorly,1
+voted intelligently,0
+supported poorly,1
+supported strongly,0
+backed poorly,1
+backed fully,0
+helped poorly,1
+helped greatly,0
+assisted poorly,1
+assisted effectively,0
+aided poorly,1
+aided significantly,0
+guided poorly,1
+guided expertly,0
+directed poorly,1
+directed skillfully,0
+led poorly,1
+led masterfully,0
+managed poorly,1
+managed superbly,0
+organized poorly,1
+organized flawlessly,0
+arranged poorly,1
+arranged perfectly,0
+sorted poorly,1
+sorted impeccably,0
+classified poorly,1
+classified accurately,0
+categorized poorly,1
+categorized precisely,0
+grouped poorly,1
+grouped ideally,0
+bunched poorly,1
+bunched perfectly,0
+clustered poorly,1
+clustered ideally,0
+collected poorly,1
+collected perfectly,0
+gathered poorly,1
+gathered ideally,0
+assembled poorly,1
+assembled flawlessly,0
+built poorly,1
+built masterfully,0
+constructed poorly,1
+constructed excellently,0
+made poorly,1
+made perfectly,0
+created poorly,1
+created wonderfully,0
+designed poorly,1
+designed beautifully,0
+planned poorly,1
+planned meticulously,0
+thought out poorly,1
+thought out thoroughly,0
+considered poorly,1
+considered completely,0
+pondered poorly,1
+pondered deeply,0
+reflected poorly,1
+reflected wisely,0
+meditated poorly,1
+meditated deeply,0
+contemplated poorly,1
+contemplated thoroughly,0
+mused poorly,1
+mused thoughtfully,0
+ruminated poorly,1
+ruminated deeply,0
+deliberated poorly,1
+deliberated carefully,0
+decided poorly,1
+decided wisely,0
+chosen poorly,1
+chosen perfectly,0
+picked poorly,1
+picked ideally,0
+selected poorly,1
+selected excellently,0
+elected poorly,1
+elected wisely,0
+voted poorly,1
+voted intelligently,0
+supported poorly,1
+supported strongly,0
+backed poorly,1
+backed fully,0
+helped poorly,1
+helped greatly,0
+assisted poorly,1
+assisted effectively,0
+aided poorly,1
+aided significantly,0
+guided poorly,1
+guided expertly,0
+directed poorly,1
+directed skillfully,0
+led poorly,1
+led masterfully,0
+managed poorly,1
+managed superbly,0
+organized poorly,1
+organized flawlessly,0
+arranged poorly,1
+arranged perfectly,0
+sorted poorly,1
+sorted impeccably,0
+classified poorly,1
+classified accurately,0
+categorized poorly,1
+categorized precisely,0
+grouped poorly,1
+grouped ideally,0
+bunched poorly,1
+bunched perfectly,0
+clustered poorly,1
+clustered ideally,0
+collected poorly,1
+collected perfectly,0
+gathered poorly,1
+gathered ideally,0
+assembled poorly,1
+assembled flawlessly,0
+built poorly,1
+built masterfully,0
+constructed poorly,1
+constructed excellently,0
+made poorly,1
+made perfectly,0
+created poorly,1
+created wonderfully,0
+designed poorly,1
+designed beautifully,0
+planned poorly,1
+planned meticulously,0
+thought out poorly,1
+thought out thoroughly,0
+considered poorly,1
+considered completely,0
+pondered poorly,1
+pondered deeply,0
+reflected poorly,1
+reflected wisely,0
+meditated poorly,1
+meditated deeply,0
+contemplated poorly,1
+contemplated thoroughly,0
+mused poorly,1
+mused thoughtfully,0
+ruminated poorly,1
+ruminated deeply,0
+deliberated poorly,1
+deliberated carefully,0
+decided poorly,1
+decided wisely,0
+chosen poorly,1
+chosen perfectly,0
+picked poorly,1
+picked ideally,0
+selected poorly,1
+selected excellently,0
+elected poorly,1
+elected wisely,0
+voted poorly,1
+voted intelligently,0
+supported poorly,1
+supported strongly,0
+backed poorly,1
+backed fully,0
+helped poorly,1
+helped greatly,0
+assisted poorly,1
+assisted effectively,0
+aided poorly,1
+aided significantly,0
+guided poorly,1
+guided expertly,0
+directed poorly,1
+directed skillfully,0
+led poorly,1
+led masterfully,0
+managed poorly,1
+managed superbly,0
+organized poorly,1
+organized flawlessly,0
+arranged poorly,1
+arranged perfectly,0
+sorted poorly,1
+sorted impeccably,0
+classified poorly,1
+classified accurately,0
+categorized poorly,1
+categorized precisely,0
+grouped poorly,1
+grouped ideally,0
+bunched poorly,1
+bunched perfectly,0
+clustered poorly,1
+clustered ideally,0
+collected poorly,1
+collected perfectly,0
+gathered poorly,1
+gathered ideally,0
+assembled poorly,1
+assembled flawlessly,0
+built poorly,1
+built masterfully,0
+constructed poorly,1
+constructed excellently,0
+made poorly,1
+made perfectly,0
+created poorly,1
+created wonderfully,0
+designed poorly,1
+designed beautifully,0
+planned poorly,1
+planned meticulously,0
+thought out poorly,1
+thought out thoroughly,0
+considered poorly,1
+considered completely,0
+pondered poorly,1
+pondered deeply,0
+reflected poorly,1
+reflected wisely,0
+meditated poorly,1
+meditated deeply,0
+contemplated poorly,1
+contemplated thoroughly,0
+mused poorly,1
+mused thoughtfully,0
+ruminated poorly,1
+ruminated deeply,0
+deliberated poorly,1
+deliberated carefully,0
+decided poorly,1
+decided wisely,0
+chosen poorly,1
+chosen perfectly,0
+picked poorly,1
+picked ideally,0
+selected poorly,1
+selected excellently,0
+elected poorly,1
+elected wisely,0
+voted poorly,1
+voted intelligently,0
+supported poorly,1
+supported strongly,0
+backed poorly,1
+backed fully,0
+helped poorly,1
+helped greatly,0
+assisted poorly,1
+assisted effectively,0
+aided poorly,1
+aided significantly,0
+guided poorly,1
+guided expertly,0
+directed poorly,1
+directed skillfully,0
+led poorly,1
+led masterfully,0
+managed poorly,1
+managed superbly,0
+organized poorly,1
+organized flawlessly,0
+arranged poorly,1
+arranged perfectly,0
+sorted poorly,1
+sorted impeccably,0
+classified poorly,1
+classified accurately,0
+categorized poorly,1
+categorized precisely,0
+grouped poorly,1
+grouped ideally,0
+bunched poorly,1
+bunched perfectly,0
+clustered poorly,1
+clustered ideally,0
+collected poorly,1
+collected perfectly,0
+gathered poorly,1
+gathered ideally,0
+assembled poorly,1
+assembled flawlessly,0
+built poorly,1
+built masterfully,0
+constructed poorly,1
+constructed excellently,0
+made poorly,1
+made perfectly,0
+created poorly,1
+created wonderfully,0
+designed poorly,1
+designed beautifully,0
+planned poorly,1
+planned meticulously,0
+thought out poorly,1
+thought out thoroughly,0
+considered poorly,1
+considered completely,0
+pondered poorly,1
+pondered deeply,0
+reflected poorly,1
+reflected wisely,0
+meditated poorly,1
+meditated deeply,0
+contemplated poorly,1
+contemplated thoroughly,0
+mused poorly,1
+mused thoughtfully,0
+ruminated poorly,1
+ruminated deeply,0
+deliberated poorly,1
+deliberated carefully,0
+decided poorly,1
+decided wisely,0
+chosen poorly,1
+chosen perfectly,0
+picked poorly,1
+picked ideally,0
+selected poorly,1
+selected excellently,0
+elected poorly,1
+elected wisely,0
+voted poorly,1
+voted intelligently,0
+supported poorly,1
+supported strongly,0
+backed poorly,1
+backed fully,0
+helped poorly,1
+helped greatly,0
+assisted poorly,1
+assisted effectively,0
+aided poorly,1
+aided significantly,0
+guided poorly,1
+guided expertly,0
+directed poorly,1
+directed skillfully,0
+led poorly,1
+led masterfully,0
+managed poorly,1
+managed superbly,0
+organized poorly,1
+organized flawlessly,0
+arranged poorly,1
+arranged perfectly,0
+sorted poorly,1
+sorted impeccably,0
+classified poorly,1
+classified accurately,0
+categorized poorly,1
+categorized precisely,0
+grouped poorly,1
+grouped ideally,0
+bunched poorly,1
+bunched perfectly,0
+clustered poorly,1
+clustered ideally,0
+collected poorly,1
+collected perfectly,0
+gathered poorly,1
+gathered ideally,0
+assembled poorly,1
+assembled flawlessly,0
+built poorly,1
+built masterfully,0
+constructed poorly,1
+constructed excellently,0
+made poorly,1
+made perfectly,0
+created poorly,1
+created wonderfully,0
+designed poorly,1
+designed beautifully,0
+planned poorly,1
+planned meticulously,0
+thought out poorly,1
+thought out thoroughly,0
+considered poorly,1
+considered completely,0
+pondered poorly,1
+pondered deeply,0
+reflected poorly,1
+reflected wisely,0
+meditated poorly,1
+meditated deeply,0
+contemplated poorly,1
+contemplated thoroughly,0
+mused poorly,1
+mused thoughtfully,0
+ruminated poorly,1
+ruminated deeply,0
+deliberated poorly,1
+deliberated carefully,0
+decided poorly,1
+decided wisely,0
+chosen poorly,1
+chosen perfectly,0
+picked poorly,1
+picked ideally,0
+selected poorly,1
+selected excellently,0
+elected poorly,1
+elected wisely,0
+voted poorly,1
+voted intelligently,0
+supported poorly,1
+supported strongly,0
+backed poorly,1
+backed fully,0
+helped poorly,1
+helped greatly,0
+assisted poorly,1
+assisted effectively,0
+aided poorly,1
+aided significantly,0
+guided poorly,1
+guided expertly,0
+directed poorly,1
+directed skillfully,0
+led poorly,1
+led masterfully,0
+managed poorly,1
+managed superbly,0
+organized poorly,1
+organized flawlessly,0
+arranged poorly,1
+arranged perfectly,0
+sorted poorly,1
+sorted impeccably,0
+classified poorly,1
+classified accurately,0
+categorized poorly,1
+categorized precisely,0
+grouped poorly,1
+grouped ideally,0
+bunched poorly,1
+bunched perfectly,0
+clustered poorly,1
+clustered ideally,0
+collected poorly,1
+collected perfectly,0
+gathered poorly,1
+gathered ideally,0
+assembled poorly,1
+assembled flawlessly,0
+built poorly,1
+built masterfully,0
+constructed poorly,1
+constructed excellently,0
+made poorly,1
+made perfectly,0
+created poorly,1
+created wonderfully,0
+designed poorly,1
+designed beautifully,0
+planned poorly,1
+planned meticulously,0
+thought out poorly,1
+thought out thoroughly,0
+considered poorly,1
+considered completely,0
+pondered poorly,1
+pondered deeply,0
+reflected poorly,1
+reflected wisely,0
+meditated poorly,1
+meditated deeply,0
+contemplated poorly,1
+contemplated thoroughly,0
+mused poorly,1
+mused thoughtfully,0
+ruminated poorly,1
+ruminated deeply,0
+deliberated poorly,1
+deliberated carefully,0
+decided poorly,1
+decided wisely,0
+chosen poorly,1
+chosen perfectly,0
+picked poorly,1
+picked ideally,0
+selected poorly,1
+selected excellently,0
+elected poorly,1
+elected wisely,0
+voted poorly,1
+voted intelligently,0
+supported poorly,1
+supported strongly,0
+backed poorly,1
+backed fully,0
+helped poorly,1
+helped greatly,0
+assisted poorly,1
+assisted effectively,0
+aided poorly,1
+aided significantly,0
+guided poorly,1
+guided expertly,0
+directed poorly,1
+directed skillfully,0
+led poorly,1
+led masterfully,0
+managed poorly,1
+managed superbly,0
+organized poorly,1
+organized flawlessly,0
+arranged poorly,1
+arranged perfectly,0
+sorted poorly,1
+sorted impeccably,0
+classified poorly,1
+classified accurately,0
+categorized poorly,1
+categorized precisely,0
+grouped poorly,1
+grouped ideally,0
+bunched poorly,1
+bunched perfectly,0
+clustered poorly,1
+clustered ideally,0
+collected poorly,1
+collected perfectly,0
+gathered poorly,1
+gathered ideally,0
+assembled poorly,1
+assembled flawlessly,0
+built poorly,1
+built masterfully,0
+constructed poorly,1
+constructed excellently,0
+made poorly,1
+made perfectly,0
+created poorly,1
+created wonderfully,0
+designed poorly,1
+designed beautifully,0
+planned poorly,1
+planned meticulously,0
+thought out poorly,1
+thought out thoroughly,0
+considered poorly,1
+considered completely,0
+pondered poorly,1
+pondered deeply,0
+reflected poorly,1
+reflected wisely,0
+meditated poorly,1
+meditated deeply,0
+contemplated poorly,1
+contemplated thoroughly,0
+mused poorly,1
+mused thoughtfully,0
+ruminated poorly,1
+ruminated deeply,0
+deliberated poorly,1
+deliberated carefully,0
+decided poorly,1
+decided wisely,0
+chosen poorly,1
+chosen perfectly,0
+picked poorly,1
+picked ideally,0
+selected poorly,1
+selected excellently,0
+elected poorly,1
+elected wisely,0
+voted poorly,1
+voted intelligently,0
+supported poorly,1
+supported strongly,0
+backed poorly,1
+backed fully,0
+helped poorly,1
+helped greatly,0
+assisted good,0
+you are stupid,1
+you are amazing,0
+go die now,1
+live your life,0
+nobody likes you,1
+everyone loves you,0
+you suck badly,1
+you rock always,0
+worthless piece of,1
+valuable member of,0
+kill yourself please,1
+love yourself always,0
+ugly inside out,1
+beautiful inside out,0
+disgusting human being,1
+wonderful human being,0
+pathetic little worm,1
+impressive big achiever,0
+complete waste space,1
+total asset team,0
+brainless idiot always,1
+brilliant mind always,0
+talentless hack forever,1
+talented individual always,0
+hopeless case really,1
+promising future ahead,0
+useless trash everywhere,1
+helpful resource always,0
+annoying pest constantly,1
+pleasant company always,0
+toxic presence everywhere,1
+positive influence always,0
+vile human being,1
+decent human being,0
+rotten to core,1
+pure at heart,0
+evil minded person,1
+good natured person,0
+cruel hearted individual,1
+compassionate soul always,0
+heartless monster truly,1
+caring individual always,0
+mean spirited person,1
+kind spirited person,0
+nasty attitude always,1
+friendly attitude always,0
+rude behavior constantly,1
+polite behavior always,0
+disrespectful jerk always,1
+respectful person always,0
+arrogant fool always,1
+humble scholar always,0
+selfish pig always,1
+generous giver always,0
+greedy bastard always,1
+sharing person always,0
+jealous freak always,1
+supportive friend always,0
+envious snake always,1
+content being always,0
+angry bull always,1
+peaceful soul always,0
+violent threat always,1
+gentle touch always,0
+aggressive bully always,1
+passive peacemaker always,0
+hateful words always,1
+loving words always,0
+bitter remarks always,1
+sweet comments always,0
+sour personality always,1
+sweet personality always,0
+cold hearted always,1
+warm hearted always,0
+distant memory always,1
+close bond always,0
+detached emotion always,1
+connected feeling always,0
+isolated existence always,1
+social butterfly always,0
+lonely path always,1
+surrounded love always,0
+alone forever maybe,1
+together always forever,0
+separated permanently unfortunately,1
+included completely always,0
+excluded intentionally always,1
+welcomed warmly always,0
+unwanted guest always,1
+wanted presence always,0
+needed nowhere ever,1
+needed everywhere always,0
+desired never ever,1
+desired always forever,0
+loved by none,1
+loved by all,0
+hated universally always,1
+hated by none,0
+despised being always,1
+admired person always,0
+respected never ever,1
+respected always forever,0
+honored absent always,1
+honored present always,0
+valued zero always,1
+valued highly always,0
+appreciated never ever,1
+appreciated daily always,0
+recognized negatively always,1
+recognized positively always,0
+acknowledged poorly always,1
+acknowledged properly always,0
+noticed for wrong,1
+noticed for right,0
+seen as problem,1
+seen as solution,0
+heard complaining always,1
+heard contributing always,0
+listened to nonsense,1
+listened to wisdom,0
+understood wrongly always,1
+understood correctly always,0
+got nothing right,1
+got everything right,0
+comprehended zero always,1
+comprehended fully always,0
+known as failure,1
+known as success,0
+remembered badly always,1
+remembered fondly always,0
+forgotten intentionally always,1
+remembered always forever,0
+missed by none,1
+missed by all,0
+wanted gone always,1
+you are a bastard,1
+you have no sex,1
+you have sex,1
+you are transgender,1
+you are trans,1
+you are a bullshit,1
+you are a shit,1
+wanted here always,0
+desired away always,1
+desired near always,0
+loved conditionally only,1
+loved unconditionally always,0
+hated passionately always,1
+loved deeply always,0
+liked by few,1
+liked by many,0
+disliked by all,1
+disliked by none,0
+preferred last always,1
+preferred first always,0
+chosen never ever,1
+chosen always forever,0
+picked last always,1
+picked first always,0
+selected poorly always,1
+selected wisely always,0
+elected never ever,1
+elected unanimously always,0
+voted against always,1
+voted for always,0
+supported weakly always,1
+supported strongly always,0
+backed poorly always,1
+backed fully always,0
+helped minimally always,1
+helped greatly always,0
+assisted badly always,1
+assisted well always,0
+aided poorly always,1
+aided effectively always,0
+guided wrongly always,1
+guided correctly always,0
+directed poorly always,1
+directed properly always,0
+led astray always,1
+led properly always,0
+managed badly always,1
+managed well always,0
+organized chaos always,1
+organized perfection always,0
+arranged poorly always,1
+arranged neatly always,0
+sorted messily always,1
+sorted perfectly always,0
+classified wrong always,1
+classified right always,0
+categorized poorly always,1
+categorized accurately always,0
+grouped incorrectly always,1
+grouped properly always,0
+bunched messily always,1
+bunched neatly always,0
+clustered poorly always,1
+clustered well always,0
+collected disorder always,1
+collected order always,0
+gathered poorly always,1
+gathered well always,0
+assembled broken always,1
+assembled whole always,0
+built weak always,1
+built strong always,0
+constructed poorly always,1
+constructed well always,0
+made fragile always,1
+made durable always,0
+created temporary always,1
+created permanent always,0
+designed ugly always,1
+designed beautiful always,0
+planned poorly always,1
+planned well always,0
+thought out bad,1
+thought out good,0
+considered lightly always,1
+considered deeply always,0
+pondered briefly always,1
+pondered thoroughly always,0
+reflected shallow always,1
+reflected deep always,0
+meditated rarely always,1
+meditated often always,0
+contemplated never ever,1
+contemplated always forever,0
+mused rarely always,1
+mused often always,0
+ruminated never ever,1
+ruminated often always,0
+deliberated poorly always,1
+deliberated well always,0
+decided hastily always,1
+decided carefully always,0
+chosen randomly always,1
+chosen wisely always,0
+picked carelessly always,1
+picked thoughtfully always,0
+selected poorly always,1
+selected well always,0
+elected wrongly always,1
+elected rightly always,0
+voted foolishly always,1
+voted smart acted,0
+You're such a worthless piece of garbage that nobody will ever love you.,1
+Your kindness and compassion make the world a better place for everyone.,0
+I hope you die alone and miserable because you deserve nothing but pain.,1
+Your positive attitude and hard work are truly inspiring to everyone around you.,0
+Everyone hates you and wishes you would just disappear forever from our lives.,1
+Your friendship means so much to me and I appreciate you more than words can say.,0
+You're too stupid to understand even the simplest concepts and should stop trying.,1
+Your intelligence and creativity never cease to amaze me - keep up the great work!,0
+Why don't you just kill yourself since nobody would even notice you're gone.,1
+The world is brighter with you in it  and I'm grateful for your presence every day.,0
+You're a complete failure at everything you attempt and will never succeed in life.,1
+Your perseverance and dedication are admirable qualities that will lead you to success.,0
+Your face is so ugly that it's actually painful for people to look at you.,1
+Your inner beauty shines through in everything you do and makes you truly special.,0
+You're such a pathetic loser that even your own family is ashamed of you.,1
+Your accomplishments make your family proud and you should be proud of yourself too.,0
+I can't stand being around you because you're so annoying and useless.,1
+I always enjoy our time together because you're such wonderful company.,0
+You're a toxic person who ruins everything good and brings everyone down.,1
+You have such a positive influence on people and bring out the best in everyone.,0
+You're disgusting and vile - nobody could ever love someone as repulsive as you.,1
+You're a beautiful person inside and out  and you deserve all the love in the world.,0
+You're a burden to everyone who knows you and we'd all be better off without you.,1
+You're a blessing to everyone around you and we're lucky to have you in our lives.,0
+Your existence is pointless and you contribute nothing of value to this world.,1
+You make valuable contributions to our community and we appreciate all you do.,0
+You're a terrible friend who only cares about themselves and their own needs.,1
+You're an amazing friend who always puts others first and shows genuine care.,0
+You're incompetent at your job and should be fired immediately for your poor work.,1
+You're highly skilled and valuable at your job - we're lucky to have you on our team.,0
+You're a horrible person who spreads negativity and misery wherever you go.,1
+You're a wonderful person who spreads joy and positivity wherever you go.,0
+You're a waste of space and resources that could be better used by someone else.,1
+You're an important member of our team and your contributions are invaluable.,0
+You'll never amount to anything in life no matter how hard you try.,1
+You have so much potential and I know you'll achieve great things in life.,0
+You're so annoying that people literally avoid you whenever they see you coming.,1
+You're so pleasant to be around that people always seek out your company.,0
+You're a complete embarrassment to everyone who has ever known you.,1
+You're someone we're all proud to know and associate with.,0
+You're a terrible influence on everyone and should be kept away from people.,1
+You're a positive role model that others should strive to emulate.,0
+You're corrupt and evil through and through with no redeeming qualities.,1
+You're honest and good-hearted  always doing the right thing.,0
+You're a malicious person who enjoys causing pain and suffering to others.,1
+You're a kind person who goes out of your way to help others in need.,0
+You're a toxic individual who poisons every environment you enter.,1
+You're a healing presence who brings peace and comfort to those around you.,0
+You're a negative energy drain that sucks the life out of every room.,1
+You're a positive energy source that lifts up everyone around you.,0
+You're a problem creator who always finds ways to make situations worse.,1
+You're a problem solver who always finds ways to improve situations.,0
+You're a trouble maker who starts conflicts and drama everywhere you go.,1
+You're a peace maker who resolves conflicts and promotes harmony.,0
+You're a drama queen who exaggerates everything for attention.,1
+You're a calm presence who helps keep situations peaceful and rational.,0
+You're an attention seeker who constantly needs validation from others.,1
+You're a humble person who quietly does good work without seeking praise.,0
+You're a selfish individual who only thinks about your own interests.,1
+You're a generous individual who always considers others' needs.,0
+You're a greedy person who takes more than you give to others.,1
+You're a sharing person who generously gives to help others.,0
+You're a jealous type who can't be happy for others' success.,1
+You're a supportive type who celebrates others' achievements.,0
+You're an envious person who resents others for what they have.,1
+You're a content person who appreciates what you have.,0
+You're an angry individual who is always looking for a fight.,1
+You're a peaceful individual who promotes calm and understanding.,0
+You're a violent person who resorts to aggression too quickly.,1
+You're a gentle person who handles conflicts with care.,0
+You're an aggressive type who intimidates others to get your way.,1
+You're a passive type who considers others' feelings carefully.,0
+asshole,1

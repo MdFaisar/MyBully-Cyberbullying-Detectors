@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyberbullying Detector - ML-Powered Text Analysis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="landing-page">
+        <!-- Navigation -->
+        <nav class="navbar">
+            <div class="container">
+                <div class="nav-content">
+                    <div class="logo">
+                        <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                            <rect width="32" height="32" rx="8" fill="#6366f1"/>
+                            <path d="M16 8L8 16L16 24L24 16L16 8Z" fill="white"/>
+                        </svg>
+                        <span>BullyGuard</span>
+                    </div>
+                    <div class="nav-links">
+                        <a href="#features">Features</a>
+                        <a href="#how-it-works">How It Works</a>
+                        <a href="#about">About</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <div class="hero-badge">
+                        <span>🛡️ ML-Powered Protection</span>
+                    </div>
+                    <h1 class="hero-title">
+                        Detect Cyberbullying
+                        <span class="gradient-text">Instantly</span>
+                    </h1>
+                    <p class="hero-description">
+                        Advanced machine learning technology to identify and prevent online harassment. 
+                        Protect your community with real-time text analysis.
+                    </p>
+                    <div class="hero-buttons">
+                        <a href="/dashboard" class="btn btn-primary">
+                            Get Started
+                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                                <path d="M7 10H13M13 10L10 7M13 10L10 13" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                            </svg>
+                        </a>
+                        <a href="#how-it-works" class="btn btn-secondary">
+                            Learn More
+                        </a>
+                    </div>
+                    
+                    <!-- Stats -->
+                    <div class="stats">
+                        <div class="stat-item">
+                            <div class="stat-number">95%+</div>
+                            <div class="stat-label">Accuracy</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">&lt;1s</div>
+                            <div class="stat-label">Response Time</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">24/7</div>
+                            <div class="stat-label">Monitoring</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Features Section -->
+        <section id="features" class="features">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Powerful Features</h2>
+                    <p>Everything you need to create a safer online environment</p>
+                </div>
+                
+                <div class="features-grid">
+                    <div class="feature-card">
+                        <div class="feature-icon">🤖</div>
+                        <h3>ML-Powered Detection</h3>
+                        <p>Advanced machine learning algorithms trained on extensive datasets to identify cyberbullying with high accuracy.</p>
+                    </div>
+                    
+                    <div class="feature-card">
+                        <div class="feature-icon">⚡</div>
+                        <h3>Real-Time Analysis</h3>
+                        <p>Instant results with sub-second response times. Analyze text as it's typed for immediate protection.</p>
+                    </div>
+                    
+                    <div class="feature-card">
+                        <div class="feature-icon">📊</div>
+                        <h3>Confidence Scoring</h3>
+                        <p>Get detailed confidence levels and severity ratings for every analysis to make informed decisions.</p>
+                    </div>
+                    
+                    <div class="feature-card">
+                        <div class="feature-icon">🔒</div>
+                        <h3>Privacy First</h3>
+                        <p>Your data is processed securely. We don't store analyzed content, ensuring complete privacy.</p>
+                    </div>
+                    
+                    <div class="feature-card">
+                        <div class="feature-icon">🎯</div>
+                        <h3>High Accuracy</h3>
+                        <p>Continuously improved models with 95%+ accuracy rate in detecting various forms of online harassment.</p>
+                    </div>
+                    
+                    <div class="feature-card">
+                        <div class="feature-icon">🌐</div>
+                        <h3>Easy Integration</h3>
+                        <p>Simple API for seamless integration into your existing platforms, apps, or moderation systems.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- How It Works Section -->
+        <section id="how-it-works" class="how-it-works">
+            <div class="container">
+                <div class="section-header">
+                    <h2>How It Works</h2>
+                    <p>Simple, fast, and effective in three easy steps</p>
+                </div>
+                
+                <div class="steps">
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <div class="step-content">
+                            <h3>Input Text</h3>
+                            <p>Enter the text, comment, or message you want to analyze into our system.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="step-arrow">→</div>
+                    
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <div class="step-content">
+                            <h3>Analysis</h3>
+                            <p>Our machine learning model processes and analyzes the content in real-time.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="step-arrow">→</div>
+                    
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <div class="step-content">
+                            <h3>Get Results</h3>
+                            <p>Receive instant classification with confidence scores and severity levels.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about">
+            <div class="container">
+                <div class="about-content">
+                    <div class="about-text">
+                        <h2>About BullyGuard</h2>
+                        <p>
+                            BullyGuard is an advanced cyberbullying detection system powered by machine learning. 
+                            Our mission is to make the internet a safer place by providing tools that identify and 
+                            prevent online harassment.
+                        </p>
+                        <p>
+                            Using state-of-the-art natural language processing and trained on extensive datasets, 
+                            our system can accurately identify various forms of cyberbullying, from subtle 
+                            microaggressions to overt threats.
+                        </p>
+                        <div class="about-cta">
+                            <a href="/dashboard" class="btn btn-primary">Try It Now</a>
+                        </div>
+                    </div>
+                    <div class="about-visual">
+                        <div class="visual-card">
+                            <div class="visual-icon">✓</div>
+                            <h4>Proven Technology</h4>
+                            <p>Backed by research and real-world testing</p>
+                        </div>
+                        <div class="visual-card">
+                            <div class="visual-icon">🎓</div>
+                            <h4>Continuously Learning</h4>
+                            <p>Models updated with new patterns and trends</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- CTA Section -->
+        <section class="cta">
+            <div class="container">
+                <div class="cta-content">
+                    <h2>Ready to Create a Safer Online Space?</h2>
+                    <p>Start detecting cyberbullying with ML-powered accuracy today</p>
+                    <a href="/dashboard" class="btn btn-primary btn-large">
+                        Launch Dashboard
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+                            <path d="M9 12H15M15 12L12 9M15 12L12 15" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="container">
+                <div class="footer-content">
+                    <div class="footer-logo">
+                        <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                            <rect width="32" height="32" rx="8" fill="#6366f1"/>
+                            <path d="M16 8L8 16L16 24L24 16L16 8Z" fill="white"/>
+                        </svg>
+                        <span>BullyGuard</span>
+                    </div>
+                    <div class="footer-text">
+                        <p>&copy; 2025 BullyGuard. Making the internet safer, one message at a time.</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,5524 @@
+text,label
+love,0
+fuck,1
+bastard,1
+idiot,1
+kind,0
+loser,1
+smart,0
+ugly,1
+brave,0
+fatso,1
+angel,0
+sex,1
+asshole,1
+you suck,1
+good job,0
+so dumb,1
+well done,0
+total failure,1
+great work,0
+complete idiot,1
+very nice,0
+you are dumb,1
+you did great,0
+she is stupid,1
+he is kind,0
+they are losers,1
+we are winners,0
+you are so stupid,1
+that was really nice,0
+he is such a loser,1
+she is very talented,0
+what a complete moron,1
+that was quite helpful,0
+you should just disappear,1
+I appreciate your effort,0
+nobody wants you here,1
+everyone likes your work,0
+you're completely worthless,1
+your contribution matters,0
+go kill yourself idiot,1
+thanks for helping me,0
+you fat ugly loser,1
+you're amazing friend,0
+why don't you just die,1
+please keep up the good work,0
+you're such a pathetic failure,1
+I value your opinion,0
+nobody will ever love you,1
+your presence makes me happy,0
+you're the worst person ever,1
+you make everything better,0
+I wish you were never born,1
+I'm glad we're friends,0
+your face makes me sick,1
+you have a beautiful smile,0
+you're too stupid to live,1
+you're incredibly smart,0
+just jump off a bridge,1
+stay safe and take care,0
+you're disgusting and vile,1
+you're kind and thoughtful,0
+everyone hates you here,1
+we all support you,0
+you're a waste of space,1
+you're important to us,0
+kill yourself nobody cares,1
+we care about you,0
+you're such a useless piece,1
+you're doing great,0
+why are you even alive,1
+life is better with you,0
+you're a complete embarrassment,1
+you make us proud,0
+nobody likes your presence,1
+we enjoy your company,0
+you're a burden to all,1
+you're a blessing,0
+your existence is pointless,1
+you matter to everyone,0
+you're a terrible human,1
+you're a good person,0
+get lost forever loser,1
+stay with us always,0
+you're nothing but trash,1
+you're precious to us,0
+I can't stand you,1
+I enjoy your company,0
+you're so annoying always,1
+you're pleasant to be with,0
+shut up and leave,1
+please share your thoughts,0
+you're completely incompetent,1
+you're very capable,0
+no one will miss you,1
+we would miss you,0
+you're a failure at life,1
+you're successful and strong,0
+just give up already,1
+keep trying you'll succeed,0
+you're the problem always,1
+you're part of the solution,0
+you ruin everything,1
+you make things better,0
+you're such a disappointment,1
+you make us proud,0
+you're not worth anything,1
+you're valuable,0
+you should be ashamed,1
+you should be proud,0
+you're a mistake,1
+you're a gift,0
+nobody cares about you,1
+we all care,0
+you're better off dead,1
+the world needs you,0
+you're a horrible person,1
+you're a wonderful person,0
+why do you even try,1
+keep trying you're improving,0
+you're useless at this,1
+you're learning quickly,0
+you'll never succeed,1
+you will achieve great things,0
+you're a joke,1
+you're impressive,0
+you're pathetic and weak,1
+you're strong and capable,0
+you're the worst ever,1
+you're the best,0
+you're so dumb it hurts,1
+you're very intelligent,0
+you're a complete fool,1
+you're very wise,0
+you're such a coward,1
+you're very brave,0
+you're disgusting to look at,1
+you're beautiful inside out,0
+you're a terrible friend,1
+you're a great friend,0
+you're worthless scum,1
+you're a precious soul,0
+you're an embarrassment to us,1
+you're an honor to know,0
+you're a burden on society,1
+you contribute positively,0
+you're a waste of oxygen,1
+you make the world better,0
+you're a pathetic excuse,1
+you're a wonderful example,0
+you're so annoying shut up,1
+please continue speaking,0
+you're incompetent at everything,1
+you're skilled in many areas,0
+you're a failure in life,1
+you're successful in life,0
+you're stupid and ignorant,1
+you're smart and knowledgeable,0
+you're ugly inside out,1
+you're beautiful inside out,0
+you're a terrible influence,1
+you're a positive influence,0
+you're corrupt and evil,1
+you're honest and good,0
+you're a malicious person,1
+you're a kind person,0
+you're a toxic individual,1
+you're a healing presence,0
+you're a horrible teammate,1
+you're a great teammate,0
+you're a bad student,1
+you're an excellent student,0
+you're a useless employee,1
+you're a valuable employee,0
+you're a terrible leader,1
+you're an inspiring leader,0
+you're a awful person,1
+you're an amazing person,0
+you're a nasty individual,1
+you're a lovely individual,0
+you're a despicable human,1
+you're an admirable human,0
+you're a wretched soul,1
+you're a beautiful soul,0
+you're a foul creature,1
+you're a wonderful being,0
+you're a vile monster,1
+you're a kind angel,0
+you're a horrible example,1
+you're a great example,0
+you're a pathetic loser,1
+you're a successful winner,0
+you're a complete waste,1
+you're completely worthwhile,0
+you're a terrible speaker,1
+you're an excellent speaker,0
+you're an awful writer,1
+you're a talented writer,0
+you're a bad artist,1
+you're a creative artist,0
+you're a poor musician,1
+you're a gifted musician,0
+you're a terrible cook,1
+you're a wonderful cook,0
+you're a awful driver,1
+you're a safe driver,0
+you're a bad parent,1
+you're a loving parent,0
+you're a terrible child,1
+you're a wonderful child,0
+you're a horrible sibling,1
+you're a caring sibling,0
+you're a awful partner,1
+you're a supportive partner,0
+you're a bad friend,1
+you're a loyal friend,0
+you're a terrible neighbor,1
+you're a good neighbor,0
+you're a awful citizen,1
+you're a responsible citizen,0
+you're a bad influence,1
+you're a positive influence,0
+you're a toxic presence,1
+you're a healing presence,0
+you're a negative energy,1
+you're a positive energy,0
+you're a drain on everyone,1
+you're a support to everyone,0
+you're a burden to all,1
+you're a help to all,0
+you're a problem always,1
+you're a solution always,0
+you're a mistake maker,1
+you're a problem solver,0
+you're a trouble creator,1
+you're a peace maker,0
+you're a conflict starter,1
+you're a harmony builder,0
+you're a drama queen,1
+you're a calm presence,0
+you're a attention seeker,1
+you're a humble person,0
+you're a selfish individual,1
+you're a generous individual,0
+you're a greedy person,1
+you're a sharing person,0
+you're a jealous type,1
+you're a supportive type,0
+you're a envious person,1
+you're a content person,0
+you're a angry individual,1
+you're a peaceful individual,0
+you're a violent person,1
+you're a gentle person,0
+you're a aggressive type,1
+you're a passive type,0
+you're a rude individual,1
+you're a polite individual,0
+you're a disrespectful person,1
+you're a respectful person,0
+you're a arrogant fool,1
+you're a humble scholar,0
+you're a proud idiot,1
+you're a modest genius,0
+you're a vain creature,1
+you're a simple being,0
+you're a shallow person,1
+you're a deep thinker,0
+you're a superficial individual,1
+you're a profound individual,0
+you're a fake friend,1
+you're a genuine friend,0
+you're a phony person,1
+you're an authentic person,0
+you're a liar always,1
+you're an honest person,0
+you're a cheat and fraud,1
+you're a trustworthy individual,0
+you're a deceiver always,1
+you're a truthful person,0
+you're a manipulative person,1
+you're a straightforward person,0
+you're a cunning fox,1
+you're an open book,0
+you're a sneaky snake,1
+you're a transparent person,0
+you're a backstabber always,1
+you're a loyal ally,0
+you're a traitor friend,1
+you're a faithful companion,0
+you're a betrayer trust,1
+you're a keeper trust,0
+you're a gossip spreader,1
+you're a secret keeper,0
+you're a rumor monger,1
+you're a truth speaker,0
+you're a slanderer person,1
+you're a reputation builder,0
+you're a character assassin,1
+you're a character defender,0
+you're a reputation destroyer,1
+you're a reputation enhancer,0
+you're a hope killer,1
+you're a hope giver,0
+you're a dream crusher,1
+you're a dream supporter,0
+you're a motivation destroyer,1
+you're a motivation builder,0
+you're a confidence breaker,1
+you're a confidence booster,0
+you're a self-esteem lower,1
+you're a self-esteem raiser,0
+you're a happiness thief,1
+you're a joy bringer,0
+you're a smile eraser,1
+you're a smile creator,0
+you're a laughter stopper,1
+you're a laughter starter,0
+you're a fun killer,1
+you're a fun maker,0
+you're a party pooper,1
+you're a party starter,0
+you're a mood spoiler,1
+you're a mood lifter,0
+you're a atmosphere ruiner,1
+you're a atmosphere improver,0
+you're a environment polluter,1
+you're a environment cleaner,0
+you're a space waster,1
+you're a space utilizer,0
+you're a time waster,1
+you're a time manager,0
+you're a resource drain,1
+you're a resource saver,0
+you're a energy vampire,1
+you're a energy giver,0
+you're a positivity killer,1
+you're a positivity spreader,0
+you're a negativity source,1
+you're a positivity source,0
+you're a problem maker,1
+you're a solution finder,0
+you're a trouble causer,1
+you're a peace maker,0
+you're a conflict creator,1
+you're a harmony creator,0
+you're a fight starter,1
+you're a fight resolver,0
+you're a argument lover,1
+you're a discussion lover,0
+you're a debate avoider,1
+you're a debate participant,0
+you're a conversation killer,1
+you're a conversation starter,0
+you're a communication blocker,1
+you're a communication facilitator,0
+you're a understanding lacking,1
+you're a understanding person,0
+you're a empathy missing,1
+you're a empathetic person,0
+you're a compassion less,1
+you're a compassionate person,0
+you're a kindness absent,1
+you're a kindness abundant,0
+you're a love missing,1
+you're a love spreading,0
+you're a hate spreading,1
+you're a hate eliminating,0
+you're a anger filled,1
+you're a calm filled,0
+you're a peace lacking,1
+you're a peace having,0
+you're a chaos creator,1
+you're a order creator,0
+you're a mess maker,1
+you're a clean keeper,0
+you're a disorder bringer,1
+you're a order bringer,0
+you're a system breaker,1
+you're a system builder,0
+you're a structure destroyer,1
+you're a structure builder,0
+you're a plan ruiner,1
+you're a plan maker,0
+you're a goal preventer,1
+you're a goal achiever,0
+you're a success blocker,1
+you're a success enabler,0
+you're a progress stopper,1
+you're a progress maker,0
+you're a development hinderer,1
+you're a development promoter,0
+you're a growth limiter,1
+you're a growth supporter,0
+you're a improvement preventer,1
+you're a improvement seeker,0
+you're a change resister,1
+you're a change adapter,0
+you're a innovation blocker,1
+you're a innovation promoter,0
+you're a creativity killer,1
+you're a creativity encourager,0
+you're a idea destroyer,1
+you're a idea generator,0
+you're a thought suppressor,1
+you're a thought expresser,0
+you're a opinion imposer,1
+you're a opinion respecter,0
+you're a view forced,1
+you're a view shared,0
+you're a perspective narrow,1
+you're a perspective broad,0
+you're a mind closed,1
+you're a mind open,0
+you're a learning resistant,1
+you're a learning eager,0
+you're a knowledge rejecter,1
+you're a knowledge seeker,0
+you're a wisdom lacking,1
+you're a wisdom having,0
+you're a experience wasted,1
+you're a experience gained,0
+you're a lesson unlearned,1
+you're a lesson learned,0
+you're a mistake repeated,1
+you're a mistake learned,0
+you're a fault denied,1
+you're a fault admitted,0
+you're a blame shifter,1
+you're a responsibility taker,0
+you're a accountability avoid,1
+you're a accountability accept,0
+you're a credit stealer,1
+you're a credit giver,0
+you're a recognition seeker,1
+you're a recognition giver,0
+you're a praise hoarder,1
+you're a praise sharer,0
+you're a compliment rare,1
+you're a compliment generous,0
+you're a appreciation lacking,1
+you're a appreciation showing,0
+you're a gratitude missing,1
+you're a gratitude expressing,0
+you're a thank you rare,1
+you're a thank you often,0
+you're a sorry never,1
+you're a sorry when needed,0
+you're a forgiveness never,1
+you're a forgiveness giving,0
+you're a grudge holder,1
+you're a grudge releaser,0
+you're a resentment filled,1
+you're a resentment free,0
+you're a bitterness full,1
+you're a sweetness full,0
+you're a sour person,1
+you're a sweet person,0
+you're a bitter individual,1
+you're a pleasant individual,0
+you're a harsh person,1
+you're a gentle person,0
+you're a rough individual,1
+you're a smooth individual,0
+you're a tough exterior,1
+you're a soft exterior,0
+you're a hard hearted,1
+you're a soft hearted,0
+you're a cold person,1
+you're a warm person,0
+you're a distant individual,1
+you're a close individual,0
+you're a detached person,1
+you're a connected person,0
+you're a isolated being,1
+you're a social being,0
+you're a lonely soul,1
+you're a surrounded soul,0
+you're a alone feeling,1
+you're a together feeling,0
+you're a separated always,1
+you're a included always,0
+you're a excluded person,1
+you're a included person,0
+you're a outcast always,1
+you're a accepted always,0
+you're a rejected individual,1
+you're a welcomed individual,0
+you're a unwanted person,1
+you're a wanted person,0
+you're a needed never,1
+you're a needed always,0
+you're a desired absent,1
+you're a desired present,0
+you're a loved never,1
+you're a loved always,0
+you're a hated always,1
+you're a hated never,0
+you're a despised person,1
+you're a admired person,0
+you're a respected never,1
+you're a respected always,0
+you're a honored absent,1
+you're a honored present,0
+you're a valued never,1
+you're a valued always,0
+you're a appreciated rare,1
+you're a appreciated often,0
+you're a recognized never,1
+you're a recognized often,0
+you're a acknowledged rare,1
+you're a acknowledged often,0
+you're a noticed never,1
+you're a noticed always,0
+you're a seen rarely,1
+you're a seen always,0
+you're a heard never,1
+you're a heard always,0
+you're a listened rarely,1
+you're a listened always,0
+you're a understood never,1
+you're a understood always,0
+you're a got never,1
+you're a got always,0
+you're a comprehended rare,1
+you're a comprehended often,0
+you're a known barely,1
+you're a known well,0
+you're a remembered never,1
+you're a remembered always,0
+you're a forgotten often,1
+you're a forgotten never,0
+you're a missed never,1
+you're a missed always,0
+you're a wanted away,1
+you're a wanted near,0
+you're a desired gone,1
+you're a desired here,0
+you're a loved absent,1
+you're a loved present,0
+you're a hated present,1
+you're a hated absent,0
+you're a liked never,1
+you're a liked always,0
+you're a disliked always,1
+you're a disliked never,0
+you're a preferred never,1
+you're a preferred always,0
+you're a chosen rarely,1
+you're a chosen often,0
+you're a picked never,1
+you're a picked always,0
+you're a selected rare,1
+you're a selected often,0
+you're a elected never,1
+you're a elected often,0
+you're a voted rarely,1
+you're a voted often,0
+you're a supported never,1
+you're a supported always,0
+you're a backed rarely,1
+you're a backed always,0
+you're a helped never,1
+you're a helped always,0
+you're a assisted rare,1
+you're a assisted often,0
+you're a aided never,1
+you're a aided always,0
+you're a guided rarely,1
+you're a guided often,0
+you're a directed never,1
+you're a directed always,0
+you're a led poorly,1
+you're a led well,0
+you're a managed bad,1
+you're a managed good,0
+you're a organized poor,1
+you're a organized well,0
+you're a arranged messy,1
+you're a arranged neat,0
+you're a sorted chaotic,1
+you're a sorted orderly,0
+you're a classified wrong,1
+you're a classified right,0
+you're a categorized incorrect,1
+you're a categorized correct,0
+you're a grouped poorly,1
+you're a grouped well,0
+you're a bunched messy,1
+you're a bunched neat,0
+you're a clustered chaotic,1
+you're a clustered orderly,0
+you're a collected disorganized,1
+you're a collected organized,0
+you're a gathered scattered,1
+you're a gathered together,0
+you're a assembled broken,1
+you're a assembled whole,0
+you're a built poorly,1
+you're a built well,0
+you're a constructed weak,1
+you're a constructed strong,0
+you're a made fragile,1
+you're a made durable,0
+you're a created temporary,1
+you're a created permanent,0
+you're a designed ugly,1
+you're a designed beautiful,0
+you're a planned poorly,1
+you're a planned well,0
+you're a thought out bad,1
+you're a thought out good,0
+you're a considered lightly,1
+you're a considered deeply,0
+you're a pondered briefly,1
+you're a pondered thoroughly,0
+you're a reflected shallow,1
+you're a reflected deep,0
+you're a meditated rarely,1
+you're a meditated often,0
+you're a contemplated never,1
+you're a contemplated always,0
+you're a mused rarely,1
+you're a mused often,0
+you're a ruminated never,1
+you're a ruminated often,0
+you're a deliberated poorly,1
+you're a deliberated well,0
+you're a decided hastily,1
+you're a decided carefully,0
+you're a chosen randomly,1
+you're a chosen wisely,0
+you're a picked carelessly,1
+you're a picked thoughtfully,0
+you're a selected poorly,1
+you're a selected well,0
+you're a elected wrongly,1
+you're a elected rightly,0
+you're a voted foolishly,1
+you're a voted smartly,0
+you're a supported blindly,1
+you're a supported wisely,0
+you're a backed foolishly,1
+you're a backed intelligently,0
+you're a helped poorly,1
+you're a helped effectively,0
+you're a assisted badly,1
+you're a assisted well,0
+you're a aided incorrectly,1
+you're a aided correctly,0
+you're a guided poorly,1
+you're a guided well,0
+you're a directed wrongly,1
+you're a directed rightly,0
+you're a led astray,1
+you're a led properly,0
+you're a managed poorly,1
+you're a managed excellently,0
+you're a organized badly,1
+you're a organized perfectly,0
+you're a arranged poorly,1
+you're a arranged beautifully,0
+you're a sorted messily,1
+you're a sorted neatly,0
+you're a classified incorrectly,1
+you're a classified accurately,0
+you're a categorized wrongly,1
+you're a categorized correctly,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched messily,1
+you're a bunched neatly,0
+you're a clustered poorly,1
+you're a clustered well,0
+you're a collected messily,1
+you're a collected neatly,0
+you're a gathered poorly,1
+you're a gathered well,0
+you're a assembled badly,1
+you're a assembled perfectly,0
+you're a built poorly,1
+you're a built excellently,0
+you're a constructed badly,1
+you're a constructed wonderfully,0
+you're a made poorly,1
+you're a made excellently,0
+you're a created badly,1
+you're a created beautifully,0
+you're a designed poorly,1
+you're a designed wonderfully,0
+you're a planned badly,1
+you're a planned perfectly,0
+you're a thought out poorly,1
+you're a thought out excellently,0
+you're a considered poorly,1
+you're a considered thoroughly,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated deeply,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated wisely,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected perfectly,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+you're a assisted poorly,1
+you're a assisted effectively,0
+you're a aided poorly,1
+you're a aided significantly,0
+you're a guided poorly,1
+you're a guided expertly,0
+you're a directed poorly,1
+you're a directed skillfully,0
+you're a led poorly,1
+you're a led masterfully,0
+you're a managed poorly,1
+you're a managed superbly,0
+you're a organized poorly,1
+you're a organized flawlessly,0
+you're a arranged poorly,1
+you're a arranged perfectly,0
+you're a sorted poorly,1
+you're a sorted impeccably,0
+you're a classified poorly,1
+you're a classified accurately,0
+you're a categorized poorly,1
+you're a categorized precisely,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched poorly,1
+you're a bunched perfectly,0
+you're a clustered poorly,1
+you're a clustered ideally,0
+you're a collected poorly,1
+you're a collected perfectly,0
+you're a gathered poorly,1
+you're a gathered ideally,0
+you're a assembled poorly,1
+you're a assembled flawlessly,0
+you're a built poorly,1
+you're a built masterfully,0
+you're a constructed poorly,1
+you're a constructed excellently,0
+you're a made poorly,1
+you're a made perfectly,0
+you're a created poorly,1
+you're a created wonderfully,0
+you're a designed poorly,1
+you're a designed beautifully,0
+you're a planned poorly,1
+you're a planned meticulously,0
+you're a thought out poorly,1
+you're a thought out thoroughly,0
+you're a considered poorly,1
+you're a considered completely,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated thoroughly,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated deeply,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected excellently,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+you're a assisted poorly,1
+you're a assisted effectively,0
+you're a aided poorly,1
+you're a aided significantly,0
+you're a guided poorly,1
+you're a guided expertly,0
+you're a directed poorly,1
+you're a directed skillfully,0
+you're a led poorly,1
+you're a led masterfully,0
+you're a managed poorly,1
+you're a managed superbly,0
+you're a organized poorly,1
+you're a organized flawlessly,0
+you're a arranged poorly,1
+you're a arranged perfectly,0
+you're a sorted poorly,1
+you're a sorted impeccably,0
+you're a classified poorly,1
+you're a classified accurately,0
+you're a categorized poorly,1
+you're a categorized precisely,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched poorly,1
+you're a bunched perfectly,0
+you're a clustered poorly,1
+you're a clustered ideally,0
+you're a collected poorly,1
+you're a collected perfectly,0
+you're a gathered poorly,1
+you're a gathered ideally,0
+you're a assembled poorly,1
+you're a assembled flawlessly,0
+you're a built poorly,1
+you're a built masterfully,0
+you're a constructed poorly,1
+you're a constructed excellently,0
+you're a made poorly,1
+you're a made perfectly,0
+you're a created poorly,1
+you're a created wonderfully,0
+you're a designed poorly,1
+you're a designed beautifully,0
+you're a planned poorly,1
+you're a planned meticulously,0
+you're a thought out poorly,1
+you're a thought out thoroughly,0
+you're a considered poorly,1
+you're a considered completely,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated thoroughly,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated deeply,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected excellently,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+you're a assisted poorly,1
+you're a assisted effectively,0
+you're a aided poorly,1
+you're a aided significantly,0
+you're a guided poorly,1
+you're a guided expertly,0
+you're a directed poorly,1
+you're a directed skillfully,0
+you're a led poorly,1
+you're a led masterfully,0
+you're a managed poorly,1
+you're a managed superbly,0
+you're a organized poorly,1
+you're a organized flawlessly,0
+you're a arranged poorly,1
+you're a arranged perfectly,0
+you're a sorted poorly,1
+you're a sorted impeccably,0
+you're a classified poorly,1
+you're a classified accurately,0
+you're a categorized poorly,1
+you're a categorized precisely,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched poorly,1
+you're a bunched perfectly,0
+you're a clustered poorly,1
+you're a clustered ideally,0
+you're a collected poorly,1
+you're a collected perfectly,0
+you're a gathered poorly,1
+you're a gathered ideally,0
+you're a assembled poorly,1
+you're a assembled flawlessly,0
+you're a built poorly,1
+you're a built masterfully,0
+you're a constructed poorly,1
+you're a constructed excellently,0
+you're a made poorly,1
+you're a made perfectly,0
+you're a created poorly,1
+you're a created wonderfully,0
+you're a designed poorly,1
+you're a designed beautifully,0
+you're a planned poorly,1
+you're a planned meticulously,0
+you're a thought out poorly,1
+you're a thought out thoroughly,0
+you're a considered poorly,1
+you're a considered completely,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated thoroughly,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated deeply,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected excellently,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+you're a assisted poorly,1
+you're a assisted effectively,0
+you're a aided poorly,1
+you're a aided significantly,0
+you're a guided poorly,1
+you're a guided expertly,0
+you're a directed poorly,1
+you're a directed skillfully,0
+you're a led poorly,1
+you're a led masterfully,0
+you're a managed poorly,1
+you're a managed superbly,0
+you're a organized poorly,1
+you're a organized flawlessly,0
+you're a arranged poorly,1
+you're a arranged perfectly,0
+you're a sorted poorly,1
+you're a sorted impeccably,0
+you're a classified poorly,1
+you're a classified accurately,0
+you're a categorized poorly,1
+you're a categorized precisely,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched poorly,1
+you're a bunched perfectly,0
+you're a clustered poorly,1
+you're a clustered ideally,0
+you're a collected poorly,1
+you're a collected perfectly,0
+you're a gathered poorly,1
+you're a gathered ideally,0
+you're a assembled poorly,1
+you're a assembled flawlessly,0
+you're a built poorly,1
+you're a built masterfully,0
+you're a constructed poorly,1
+you're a constructed excellently,0
+you're a made poorly,1
+you're a made perfectly,0
+you're a created poorly,1
+you're a created wonderfully,0
+you're a designed poorly,1
+you're a designed beautifully,0
+you're a planned poorly,1
+you're a planned meticulously,0
+you're a thought out poorly,1
+you're a thought out thoroughly,0
+you're a considered poorly,1
+you're a considered completely,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated thoroughly,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated deeply,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected excellently,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+you're a assisted poorly,1
+you're a assisted effectively,0
+you're a aided poorly,1
+you're a aided significantly,0
+you're a guided poorly,1
+you're a guided expertly,0
+you're a directed poorly,1
+you're a directed skillfully,0
+you're a led poorly,1
+you're a led masterfully,0
+you're a managed poorly,1
+you're a managed superbly,0
+you're a organized poorly,1
+you're a organized flawlessly,0
+you're a arranged poorly,1
+you're a arranged perfectly,0
+you're a sorted poorly,1
+you're a sorted impeccably,0
+you're a classified poorly,1
+you're a classified accurately,0
+you're a categorized poorly,1
+you're a categorized precisely,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched poorly,1
+you're a bunched perfectly,0
+you're a clustered poorly,1
+you're a clustered ideally,0
+you're a collected poorly,1
+you're a collected perfectly,0
+you're a gathered poorly,1
+you're a gathered ideally,0
+you're a assembled poorly,1
+you're a assembled flawlessly,0
+you're a built poorly,1
+you're a built masterfully,0
+you're a constructed poorly,1
+you're a constructed excellently,0
+you're a made poorly,1
+you're a made perfectly,0
+you're a created poorly,1
+you're a created wonderfully,0
+you're a designed poorly,1
+you're a designed beautifully,0
+you're a planned poorly,1
+you're a planned meticulously,0
+you're a thought out poorly,1
+you're a thought out thoroughly,0
+you're a considered poorly,1
+you're a considered completely,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated thoroughly,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated deeply,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected excellently,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+you're a assisted poorly,1
+you're a assisted effectively,0
+you're a aided poorly,1
+you're a aided significantly,0
+you're a guided poorly,1
+you're a guided expertly,0
+you're a directed poorly,1
+you're a directed skillfully,0
+you're a led poorly,1
+you're a led masterfully,0
+you're a managed poorly,1
+you're a managed superbly,0
+you're a organized poorly,1
+you're a organized flawlessly,0
+you're a arranged poorly,1
+you're a arranged perfectly,0
+you're a sorted poorly,1
+you're a sorted impeccably,0
+you're a classified poorly,1
+you're a classified accurately,0
+you're a categorized poorly,1
+you're a categorized precisely,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched poorly,1
+you're a bunched perfectly,0
+you're a clustered poorly,1
+you're a clustered ideally,0
+you're a collected poorly,1
+you're a collected perfectly,0
+you're a gathered poorly,1
+you're a gathered ideally,0
+you're a assembled poorly,1
+you're a assembled flawlessly,0
+you're a built poorly,1
+you're a built masterfully,0
+you're a constructed poorly,1
+you're a constructed excellently,0
+you're a made poorly,1
+you're a made perfectly,0
+you're a created poorly,1
+you're a created wonderfully,0
+you're a designed poorly,1
+you're a designed beautifully,0
+you're a planned poorly,1
+you're a planned meticulously,0
+you're a thought out poorly,1
+you're a thought out thoroughly,0
+you're a considered poorly,1
+you're a considered completely,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated thoroughly,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated deeply,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected excellently,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+you're a assisted poorly,1
+you're a assisted effectively,0
+you're a aided poorly,1
+you're a aided significantly,0
+you're a guided poorly,1
+you're a guided expertly,0
+you're a directed poorly,1
+you're a directed skillfully,0
+you're a led poorly,1
+you're a led masterfully,0
+you're a managed poorly,1
+you're a managed superbly,0
+you're a organized poorly,1
+you're a organized flawlessly,0
+you're a arranged poorly,1
+you're a arranged perfectly,0
+you're a sorted poorly,1
+you're a sorted impeccably,0
+you're a classified poorly,1
+you're a classified accurately,0
+you're a categorized poorly,1
+you're a categorized precisely,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched poorly,1
+you're a bunched perfectly,0
+you're a clustered poorly,1
+you're a clustered ideally,0
+you're a collected poorly,1
+you're a collected perfectly,0
+you're a gathered poorly,1
+you're a gathered ideally,0
+you're a assembled poorly,1
+you're a assembled flawlessly,0
+you're a built poorly,1
+you're a built masterfully,0
+you're a constructed poorly,1
+you're a constructed excellently,0
+you're a made poorly,1
+you're a made perfectly,0
+you're a created poorly,1
+you're a created wonderfully,0
+you're a designed poorly,1
+you're a designed beautifully,0
+you're a planned poorly,1
+you're a planned meticulously,0
+you're a thought out poorly,1
+you're a thought out thoroughly,0
+you're a considered poorly,1
+you're a considered completely,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated thoroughly,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated deeply,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected excellently,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+you're a assisted poorly,1
+you're a assisted effectively,0
+you're a aided poorly,1
+you're a aided significantly,0
+you're a guided poorly,1
+you're a guided expertly,0
+you're a directed poorly,1
+you're a directed skillfully,0
+you're a led poorly,1
+you're a led masterfully,0
+you're a managed poorly,1
+you're a managed superbly,0
+you're a organized poorly,1
+you're a organized flawlessly,0
+you're a arranged poorly,1
+you're a arranged perfectly,0
+you're a sorted poorly,1
+you're a sorted impeccably,0
+you're a classified poorly,1
+you're a classified accurately,0
+you're a categorized poorly,1
+you're a categorized precisely,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched poorly,1
+you're a bunched perfectly,0
+you're a clustered poorly,1
+you're a clustered ideally,0
+you're a collected poorly,1
+you're a collected perfectly,0
+you're a gathered poorly,1
+you're a gathered ideally,0
+you're a assembled poorly,1
+you're a assembled flawlessly,0
+you're a built poorly,1
+you're a built masterfully,0
+you're a constructed poorly,1
+you're a constructed excellently,0
+you're a made poorly,1
+you're a made perfectly,0
+you're a created poorly,1
+you're a created wonderfully,0
+you're a designed poorly,1
+you're a designed beautifully,0
+you're a planned poorly,1
+you're a planned meticulously,0
+you're a thought out poorly,1
+you're a thought out thoroughly,0
+you're a considered poorly,1
+you're a considered completely,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated thoroughly,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated deeply,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected excellently,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+you're a assisted poorly,1
+you're a assisted effectively,0
+you're a aided poorly,1
+you're a aided significantly,0
+you're a guided poorly,1
+you're a guided expertly,0
+you're a directed poorly,1
+you're a directed skillfully,0
+you're a led poorly,1
+you're a led masterfully,0
+you're a managed poorly,1
+you're a managed superbly,0
+you're a organized poorly,1
+you're a organized flawlessly,0
+you're a arranged poorly,1
+you're a arranged perfectly,0
+you're a sorted poorly,1
+you're a sorted impeccably,0
+you're a classified poorly,1
+you're a classified accurately,0
+you're a categorized poorly,1
+you're a categorized precisely,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched poorly,1
+you're a bunched perfectly,0
+you're a clustered poorly,1
+you're a clustered ideally,0
+you're a collected poorly,1
+you're a collected perfectly,0
+you're a gathered poorly,1
+you're a gathered ideally,0
+you're a assembled poorly,1
+you're a assembled flawlessly,0
+you're a built poorly,1
+you're a built masterfully,0
+you're a constructed poorly,1
+you're a constructed excellently,0
+you're a made poorly,1
+you're a made perfectly,0
+you're a created poorly,1
+you're a created wonderfully,0
+you're a designed poorly,1
+you're a designed beautifully,0
+you're a planned poorly,1
+you're a planned meticulously,0
+you're a thought out poorly,1
+you're a thought out thoroughly,0
+you're a considered poorly,1
+you're a considered completely,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated thoroughly,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated deeply,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected excellently,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+you're a assisted poorly,1
+you're a assisted effectively,0
+you're a aided poorly,1
+you're a aided significantly,0
+you're a guided poorly,1
+you're a guided expertly,0
+you're a directed poorly,1
+you're a directed skillfully,0
+you're a led poorly,1
+you're a led masterfully,0
+you're a managed poorly,1
+you're a managed superbly,0
+you're a organized poorly,1
+you're a organized flawlessly,0
+you're a arranged poorly,1
+you're a arranged perfectly,0
+you're a sorted poorly,1
+you're a sorted impeccably,0
+you're a classified poorly,1
+you're a classified accurately,0
+you're a categorized poorly,1
+you're a categorized precisely,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched poorly,1
+you're a bunched perfectly,0
+you're a clustered poorly,1
+you're a clustered ideally,0
+you're a collected poorly,1
+you're a collected perfectly,0
+you're a gathered poorly,1
+you're a gathered ideally,0
+you're a assembled poorly,1
+you're a assembled flawlessly,0
+you're a built poorly,1
+you're a built masterfully,0
+you're a constructed poorly,1
+you're a constructed excellently,0
+you're a made poorly,1
+you're a made perfectly,0
+you're a created poorly,1
+you're a created wonderfully,0
+you're a designed poorly,1
+you're a designed beautifully,0
+you're a planned poorly,1
+you're a planned meticulously,0
+you're a thought out poorly,1
+you're a thought out thoroughly,0
+you're a considered poorly,1
+you're a considered completely,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated thoroughly,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated deeply,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected excellently,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+you're a assisted poorly,1
+you're a assisted effectively,0
+you're a aided poorly,1
+you're a aided significantly,0
+you're a guided poorly,1
+you're a guided expertly,0
+you're a directed poorly,1
+you're a directed skillfully,0
+you're a led poorly,1
+you're a led masterfully,0
+you're a managed poorly,1
+you're a managed superbly,0
+you're a organized poorly,1
+you're a organized flawlessly,0
+you're a arranged poorly,1
+you're a arranged perfectly,0
+you're a sorted poorly,1
+you're a sorted impeccably,0
+you're a classified poorly,1
+you're a classified accurately,0
+you're a categorized poorly,1
+you're a categorized precisely,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched poorly,1
+you're a bunched perfectly,0
+you're a clustered poorly,1
+you're a clustered ideally,0
+you're a collected poorly,1
+you're a collected perfectly,0
+you're a gathered poorly,1
+you're a gathered ideally,0
+you're a assembled poorly,1
+you're a assembled flawlessly,0
+you're a built poorly,1
+you're a built masterfully,0
+you're a constructed poorly,1
+you're a constructed excellently,0
+you're a made poorly,1
+you're a made perfectly,0
+you're a created poorly,1
+you're a created wonderfully,0
+you're a designed poorly,1
+you're a designed beautifully,0
+you're a planned poorly,1
+you're a planned meticulously,0
+you're a thought out poorly,1
+you're a thought out thoroughly,0
+you're a considered poorly,1
+you're a considered completely,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated thoroughly,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated deeply,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected excellently,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+you're a assisted poorly,1
+you're a assisted effectively,0
+you're a aided poorly,1
+you're a aided significantly,0
+you're a guided poorly,1
+you're a guided expertly,0
+you're a directed poorly,1
+you're a directed skillfully,0
+you're a led poorly,1
+you're a led masterfully,0
+you're a managed poorly,1
+you're a managed superbly,0
+you're a organized poorly,1
+you're a organized flawlessly,0
+you're a arranged poorly,1
+you're a arranged perfectly,0
+you're a sorted poorly,1
+you're a sorted impeccably,0
+you're a classified poorly,1
+you're a classified accurately,0
+you're a categorized poorly,1
+you're a categorized precisely,0
+you're a grouped poorly,1
+you're a grouped ideally,0
+you're a bunched poorly,1
+you're a bunched perfectly,0
+you're a clustered poorly,1
+you're a clustered ideally,0
+you're a collected poorly,1
+you're a collected perfectly,0
+you're a gathered poorly,1
+you're a gathered ideally,0
+you're a assembled poorly,1
+you're a assembled flawlessly,0
+you're a built poorly,1
+you're a built masterfully,0
+you're a constructed poorly,1
+you're a constructed excellently,0
+you're a made poorly,1
+you're a made perfectly,0
+you're a created poorly,1
+you're a created wonderfully,0
+you're a designed poorly,1
+you're a designed beautifully,0
+you're a planned poorly,1
+you're a planned meticulously,0
+you're a thought out poorly,1
+you're a thought out thoroughly,0
+you're a considered poorly,1
+you're a considered completely,0
+you're a pondered poorly,1
+you're a pondered deeply,0
+you're a reflected poorly,1
+you're a reflected wisely,0
+you're a meditated poorly,1
+you're a meditated deeply,0
+you're a contemplated poorly,1
+you're a contemplated thoroughly,0
+you're a mused poorly,1
+you're a mused thoughtfully,0
+you're a ruminated poorly,1
+you're a ruminated deeply,0
+you're a deliberated poorly,1
+you're a deliberated carefully,0
+you're a decided poorly,1
+you're a decided wisely,0
+you're a chosen poorly,1
+you're a chosen perfectly,0
+you're a picked poorly,1
+you're a picked ideally,0
+you're a selected poorly,1
+you're a selected excellently,0
+you're a elected poorly,1
+you're a elected wisely,0
+you're a voted poorly,1
+you're a voted intelligently,0
+you're a supported poorly,1
+you're a supported strongly,0
+you're a backed poorly,1
+you're a backed fully,0
+you're a helped poorly,1
+you're a helped greatly,0
+love,0
+hate,1
+loser,1
+thanks,0
+ugly,1
+nice,0
+stupid,1
+kind,0
+idiot,1
+smile,0
+dumb,1
+happy,0
+worthless,1
+great,0
+pathetic,1
+good job,0
+you suck,1
+well done,0
+so dumb,1
+thank you,0
+shut up,1
+nice work,0
+get lost,1
+love it,0
+you're ugly,1
+stay strong,0
+nobody cares,1
+awesome work,0
+kill yourself,1
+proud of you,0
+you are dumb,1
+you did great,0
+go away loser,1
+have a day,0
+you are worthless,1
+thanks for helping,0
+nobody likes you,1
+great job today,0
+you're so stupid,1
+I appreciate you,0
+what an idiot,1
+keep it up,0
+you are disgusting,1
+nice to meet,0
+everyone hates you,1
+you look beautiful,0
+you are so stupid,1
+that was really nice,0
+you're such a loser,1
+I support your decision,0
+what a dumb person,1
+thanks for your help,0
+you should be ashamed,1
+you did amazing work,0
+you're a complete failure,1
+I'm here for you,0
+go kill yourself loser,1
+you're doing great work,0
+Nobody likes you  go away,1
+I appreciate your help today,0
+You're so ugly and stupid,1
+That's a really good idea,0
+Everyone thinks you're pathetic,1
+Let's work together on this,0
+You deserve to be alone forever,1
+Your presentation was very informative,0
+Why don't you just disappear already,1
+I'm really grateful for your support,0
+You're a waste of space honestly,1
+Thanks for being such a good friend,0
+No one wants you here at all,1
+Your contribution made a real difference,0
+You should just quit and give up,1
+I really enjoyed our conversation today,0
+You're too dumb to understand anything,1
+That was a thoughtful thing to say,0
+I hope you fail at everything you do,1
+You always know how to make me smile,0
+You're disgusting and nobody likes you,1
+I'm proud of how far you've come,0
+Everyone laughs at you behind your back,1
+Your hard work really shows in the results,0
+You're such an embarrassment to everyone around,1
+I value your opinion and perspective,0
+Why are you even alive you're so useless,1
+Thanks for taking the time to help me out,0
+You're fat ugly and completely worthless as a person,1
+I think you handled that situation really well,0
+Go jump off a bridge nobody would miss you,1
+Your creativity and ideas always inspire me,0
+You're a pathetic loser who will never amount to anything,1
+I'm so lucky to have you as a friend,0
+Everyone secretly hates you and talks about you,1
+You bring so much positivity to our team,0
+You should be ashamed of how stupid you are,1
+I really respect your dedication and commitment,0
+Kill yourself no one cares about you anyway loser,1
+Your kindness and compassion make the world better,0
+You're the ugliest person I've ever seen in my life,1
+Thanks for always being there when I need you,0
+You're a complete failure and waste of oxygen,1
+I appreciate your honesty and integrity,0
+Nobody would care if you died tomorrow you're worthless,1
+Your positive attitude is contagious and uplifting,0
+You're too stupid to even realize how dumb you are,1
+I'm here if you ever need someone to talk to,0
+love,0
+fuck,1
+hate,1
+peace,0
+loser,1
+smile,0
+trash,1
+hug,0
+scum,1
+joy,0
+idiot,1
+star,0
+moron,1
+friend,0
+freak,1
+dream,0
+beast,1
+magic,0
+dumbo,1
+grace,0
+good job,0
+nice work,0
+well done,0
+you rock,0
+super cool,0
+great post,0
+love it,0
+keep going,0
+awesome pic,0
+stay strong,0
+stupid jerk,1
+dumb loser,1
+ugly freak,1
+total waste,1
+pathetic clown,1
+worthless rat,1
+screw you,1
+buzz off,1
+drop dead,1
+eat dirt,1
+you did great,0
+that looks nice,0
+enjoy your day,0
+thanks for sharing,0
+glad you came,0
+proud of you,0
+keep it up,0
+you are kind,0
+really inspiring,0
+stay positive,0
+you are dumb,1
+go away loser,1
+nobody likes you,1
+you disgust me,1
+just shut up,1
+get lost now,1
+you are pathetic,1
+such a moron,1
+waste of space,1
+you are so stupid,1
+that was really nice,0
+enjoy the weekend,0
+hope you feel better,0
+loved the video,0
+you made my day,0
+thanks for helping,0
+awesome work today,0
+keep being you,0
+you are amazing,0
+so proud right now,0
+you are totally worthless,1
+just kill yourself,1
+no one wants you,1
+delete your account,1
+stop breathing please,1
+you ruin everything,1
+crawl back home,1
+you should be ashamed,1
+forever alone loser,1
+i will destroy you,1
+I appreciate your help today,0
+Your art is fantastic,0
+Sending good vibes,0
+Hope you win,0
+You deserve happiness,0
+Great game well played,0
+Love your style,0
+Keep shining bright,0
+You are wonderful,0
+Thanks for being here,0
+Nobody likes you go away,1
+You are a fat pig,1
+I will find you,1
+End your misery now,1
+Do us all a favor and leave,1
+You look like vomit,1
+I’m going to hurt you,1
+Everyone laughs at you,1
+You’re a mistake,1
+Please disappear forever,1
+Lovely weather today,0
+Enjoy your coffee,0
+Cute dog picture,0
+Have a safe trip,0
+Good luck on exams,0
+Your voice is calming,0
+Nice profile photo,0
+Thanks for the follow,0
+Keep creating content,0
+You inspire many,0
+You’re so ugly it hurts,1
+Kill yourself already,1
+I’ll make you cry,1
+You’re lower than dirt,1
+No one cares about you,1
+You’re a waste of oxygen,1
+I bet you cut yourself,1
+Hanging would suit you,1
+Your family hates you,1
+Slit your wrists,1
+Congratulations on the promotion,0
+Enjoy the holidays,0
+Your smile lights rooms,0
+Well deserved award,0
+Keep up great work,0
+You’re a star,0
+Thanks for listening,0
+Stay safe out there,0
+You matter to us,0
+Love your energy,0
+Die in a hole,1
+Hope you get cancer,1
+You’re a virus,1
+Burn in hell,1
+I’ll ruin your life,1
+You’re pure trash,1
+Stop wasting our time,1
+You’re an embarrassment,1
+Jump off a bridge,1
+You deserve pain,1
+Great meeting today team,0
+Enjoy the concert,0
+Your kindness helps,0
+Thanks for patience,0
+You handled that perfectly,0
+Keep being awesome,0
+Love the new hair,0
+You’re a gem,0
+Stay hydrated friend,0
+You light up lives,0
+You’re so dumb it’s painful,1
+I’ll choke you,1
+You’re adopted and unwanted,1
+Drink bleach,1
+You’re a failed abortion,1
+I’ll stalk you home,1
+You’re cancer to society,1
+Hope you overdose,1
+You’re a pathetic worm,1
+I’m going to expose you,1
+Have an amazing birthday,0
+Your jokes are hilarious,0
+Enjoy the sunset,0
+You handled criticism well,0
+Keep dreaming big,0
+You’re a blessing,0
+Thanks for organizing,0
+You rocked that presentation,0
+Stay courageous,0
+You’re making difference,0
+You should be dead,1
+I’ll break your legs,1
+You’re a subhuman freak,1
+Go cry to mommy,1
+You’re a waste of skin,1
+I’ll make you disappear,1
+You’re an oxygen thief,1
+Hope you suffer,1
+You’re lower than slime,1
+I’ll end you,1
+Enjoy your vacation,0
+Your cooking is delicious,0
+Thanks for donating,0
+You’re a great listener,0
+Keep spreading joy,0
+You handled stress gracefully,0
+Love your playlist,0
+You’re appreciated greatly,0
+Stay amazing always,0
+You bring people together,0
+You’re a joke,1
+I’ll punch your face,1
+You’re a genetic defect,1
+Stop talking forever,1
+You’re a maggot,1
+I’ll destroy your future,1
+You’re a loser forever,1
+Hope you rot,1
+You’re a skid mark,1
+I’m coming for you,1
+Great teamwork everyone,0
+Enjoy the festival,0
+Your advice helped me,0
+Thanks for volunteering,0
+You’re a role model,0
+Keep pushing forward,0
+You handled conflict maturely,0
+Love your creativity,0
+You’re gold,0
+Stay kind and strong,0
+You make us better,0
+You’re so pathetic it’s funny,1
+I’ll make you beg,1
+You’re a waste of DNA,1
+Go drown yourself,1
+You’re a bottom feeder,1
+I’ll haunt your dreams,1
+You’re a mistake of nature,1
+Hope you crash,1
+You’re a sewer rat,1
+I’ll bury you,1
+Enjoy the new job,0
+Your generosity amazes,0
+Thanks for mentoring,0
+You’re a true friend,0
+Keep smiling widely,0
+You deserve applause,0
+Love your passion,0
+You’re a champion,0
+Stay hopeful always,0
+You lift others up,0
+You’re pure scum,1
+I’ll cut you,1
+You’re a waste of life,1
+Eat glass,1
+You’re a parasite,1
+I’ll wreck your life,1
+You’re a reject,1
+Hope you choke,1
+You’re a mistake parents regret,1
+I’ll find your family,1
+Enjoy the show tonight,0
+Your voice is beautiful,0
+Thanks for caring,0
+You’re a hero,0
+Keep writing stories,0
+You handled pressure calmly,0
+Love your honesty,0
+You’re a legend,0
+Stay wonderful forever,0
+You give us hope,0
+You’re a disease,1
+I’ll snap your neck,1
+You’re a stain on earth,1
+Go play in traffic,1
+You’re a leech,1
+I’ll burn your house,1
+You’re a failure,1
+Hope you bleed,1
+You’re a walking disaster,1
+I’ll destroy your reputation,1
+Lovely dinner thank you,0
+Enjoy the journey,0
+Your dance moves rock,0
+Thanks for translating,0
+You’re a natural leader,0
+Keep exploring world,0
+You solved it perfectly,0
+Love your enthusiasm,0
+You’re a delight,0
+Stay curious and brave,0
+You brighten days,0
+You’re nothing,1
+I’ll make you suffer,1
+You’re a black hole,1
+Vanish from earth,1
+You’re a virus with shoes,1
+I’ll crush your dreams,1
+You’re a waste of atoms,1
+Hope you die alone,1
+You’re a glitch,1
+I’ll end your bloodline,1
+Enjoy the championship,0
+Your art heals souls,0
+Thanks for coaching,0
+You’re a bright spark,0
+Keep sharing knowledge,0
+You managed time well,0
+Love your positivity,0
+You’re a superstar,0
+Stay awesome and healthy,0
+You unite people,0
+You’re a joke of evolution,1
+I’ll make you scream,1
+You’re a hollow shell,1
+Go rot in jail,1
+You’re a pest,1
+I’ll delete your future,1
+You’re a defect,1
+Hope you drown,1
+You’re a waste of data,1
+I’m watching you,1
+Great session today,0
+Enjoy the museum,0
+Your support means lot,0
+Thanks for feedback,0
+You’re a visionary,0
+Keep learning daily,0
+You answered perfectly,0
+Love your humility,0
+You’re a treasure,0
+Stay peaceful and strong,0
+You encourage others,0
+You’re a waste of space,1
+I’ll break your spirit,1
+You’re a tumor,1
+Go choke on food,1
+You’re a cockroach,1
+I’ll destroy your soul,1
+You’re a burden,1
+Hope you burn alive,1
+You’re a genetic trash,1
+I’ll come for you,1
+Enjoy the hike,0
+Your laughter is contagious,0
+Thanks for inspiring,0
+You’re a genius,0
+Keep mentoring others,0
+You balanced it well,0
+Love your dedication,0
+You’re a warrior,0
+Stay happy and safe,0
+You empower people,0
+You’re a joke to humanity,1
+I’ll make you obsolete,1
+You’re a void,1
+Disappear immediately,1
+You’re a plague,1
+I’ll erase you,1
+You’re a mistake God regrets,1
+Hope you get hit,1
+You’re a smudge,1
+I’ll haunt you forever,1
+Enjoy the premiere,0
+Your kindness heals,0
+Thanks for leading,0
+You’re a miracle,0
+Keep creating magic,0
+You handled crisis calmly,0
+Love your wisdom,0
+You’re a phenomenon,0
+Stay blessed always,0
+You spark change,0
+You’re trash,1
+I’ll break you,1
+You’re a dead end,1
+Go suffocate,1
+You’re a virus breathing,1
+I’ll demolish your life,1
+You’re a waste of time,1
+Hope you decay,1
+You’re a scar,1
+I’ll wreck you,1
+Great workshop thanks,0
+Enjoy the scenery,0
+Your guidance saved me,0
+Thanks for trusting,0
+You’re a pioneer,0
+Keep singing loudly,0
+You adapted quickly,0
+Love your resilience,0
+You’re a beacon,0
+Stay vibrant and bold,0
+You calm storms,0
+You’re a failure of life,1
+I’ll make you pay,1
+You’re a glitch in reality,1
+Go melt away,1
+You’re a toxin,1
+I’ll shatter your world,1
+You’re a waste of breath,1
+Hope you implode,1
+You’re a defect in code,1
+I’ll cancel you,1
+Enjoy the celebrations,0
+Your stories inspire,0
+Thanks for encouraging,0
+You’re a gift,0
+Keep painting joy,0
+You resolved it smoothly,0
+Love your patience,0
+You’re a victor,0
+Stay radiant always,0
+You build bridges,0
+You’re a waste of matter,1
+I’ll make you kneel,1
+You’re a black spot,1
+Vanish permanently,1
+You’re a cancer cell,1
+I’ll delete your existence,1
+You’re a joke of DNA,1
+Hope you explode,1
+You’re a void walker,1
+I’ll bury your name,1
+Enjoy the performance,0
+Your humor lifts us,0
+Thanks for hosting,0
+You’re a light,0
+Keep designing beauty,0
+You negotiated wisely,0
+Love your courage,0
+You’re a force,0
+Stay golden forever,0
+You ignite minds,0
+You’re a waste of energy,1
+I’ll crush your hope,1
+You’re a rotten core,1
+Go crawl under rock,1
+You’re a poison,1
+I’ll dismantle your joy,1
+You’re a burden to air,1
+Hope you shatter,1
+You’re a stain on time,1
+I’ll end your story,1
+Great discussion team,0
+Enjoy the campfire,0
+Your insight helped,0
+Thanks for waiting,0
+You’re a change maker,0
+Keep photographing life,0
+You presented excellently,0
+Love your authenticity,0
+You’re a joy bringer,0
+Stay fearless and kind,0
+You connect hearts,0
+You’re a mistake of chemistry,1
+I’ll make you obsolete,1
+You’re a null,1
+Disappear from universe,1
+You’re a plague carrier,1
+I’ll vaporize you,1
+You’re a waste of universe,1
+Hope you cease,1
+You’re a broken code,1
+I’ll shadow ban you,1
+Enjoy the road trip,0
+Your presence calms,0
+Thanks for donating time,0
+You’re a dream builder,0
+Keep composing music,0
+You led gracefully,0
+Love your optimism,0
+You’re a game changer,0
+Stay luminous always,0
+You heal wounds,0
+You’re a waste of cosmos,1
+I’ll make you crumble,1
+You’re a dark spot,1
+Go vanish in void,1
+You’re a virus of mind,1
+I’ll terminate your future,1
+You’re a defect of stars,1
+Hope you blink out,1
+You’re a glitch in time,1
+I’ll erase your legacy,1
+Enjoy the book launch,0
+Your ideas sparkle,0
+Thanks for empowering,0
+You’re a sunrise,0
+Keep teaching generously,0
+You listened perfectly,0
+Love your flexibility,0
+You’re a pathfinder,0
+Stay gentle and strong,0
+You plant seeds of hope,0
+You’re a waste of galaxies,1
+I’ll make you evaporate,1
+You’re a null entity,1
+Cease existing now,1
+You’re a cosmic error,1
+I’ll delete your atoms,1
+You’re a mistake of physics,1
+Hope you dissolve,1
+You’re a void spark,1
+I’ll collapse your world,1
+Enjoy the stargazing,0
+Your heart is vast,0
+Thanks for comforting,0
+You’re a galaxy,0
+Keep crafting wonders,0
+You mediated fairly,0
+Love your sincerity,0
+You’re a legend in making,0
+Stay infinite always,0
+You gather stars,0
+scum,1
+loser,1
+trash,1
+moron,1
+idiot,1
+beast,1
+freak,1
+dumbo,1
+pig,1
+dog,1
+rat,1
+snake,1
+roach,1
+maggot,1
+parasite,1
+virus,1
+tumor,1
+cancer,1
+plague,1
+filth,1
+scumbag,1
+lowlife,1
+degenerate,1
+retard,1
+imbecile,1
+cretin,1
+dunce,1
+dimwit,1
+nitwit,1
+halfwit,1
+fatso,1
+whale,1
+blob,1
+lard,1
+scar,1
+stain,1
+waste,1
+trashbag,1
+dumpster,1
+sewage,1
+rot,1
+rust,1
+mold,1
+slime,1
+grime,1
+crud,1
+dirt,1
+mud,1
+ash,1
+dust,1
+love,0
+hug,0
+smile,0
+star,0
+dream,0
+grace,0
+peace,0
+light,0
+gift,0
+gem,0
+joy,0
+hope,0
+calm,0
+bold,0
+bright,0
+warm,0
+soft,0
+pure,0
+TRUE,0
+kind,0
+sweet,0
+neat,0
+cool,0
+good,0
+best,0
+fine,0
+glad,0
+glow,0
+bloom,0
+breeze,0
+song,0
+dance,0
+laugh,0
+spark,0
+flame,0
+wave,0
+skies,0
+ocean,0
+fields,0
+petal,0
+cloud,0
+moon,0
+sun,0
+rose,0
+lily,0
+dove,0
+swan,0
+fawn,0
+fuck,1
+damn,1
+shit,1
+crap,1
+piss,1
+hell,1
+suck,1
+blow,1
+bite,1
+die,1
+kill,1
+beat,1
+burn,1
+hang,1
+choke,1
+drown,1
+crash,1
+smash,1
+wreck,1
+trash,1
+bash,1
+snap,1
+crack,1
+split,1
+rip,1
+tear,1
+shred,1
+grind,1
+crush,1
+hug,0
+kiss,0
+care,0
+help,0
+give,0
+share,0
+heal,0
+lift,0
+grow,0
+build,0
+make,0
+create,0
+dream,0
+wish,0
+hope,0
+pray,0
+thank,0
+bless,0
+cheer,0
+calm,0
+rest,0
+play,0
+sing,0
+dance,0
+laugh,0
+smile,0
+glow,0
+shine,0
+wave,0
+beam,0
+spark,0
+flame,0
+bloom,0
+flow,0
+rise,0
+soar,0
+fly,0
+zoom,0
+sail,0
+ride,0
+run,0
+walk,0
+step,0
+move,0
+mild,0
+soft,0
+warm,0
+cozy,0
+safe,0
+dumb ass,1
+fat pig,1
+ugly duck,1
+stupid cow,1
+lazy bum,1
+filthy rat,1
+greasy slob,1
+worthless scum,1
+pathetic worm,1
+sorry trash,1
+sad freak,1
+gross blob,1
+vile snake,1
+dirty dog,1
+crappy clone,1
+lame joke,1
+dead weight,1
+toxic waste,1
+fake friend,1
+basic clone,1
+good vibes,0
+sweet soul,0
+bright mind,0
+kind heart,0
+true friend,0
+calm presence,0
+warm hug,0
+gentle smile,0
+pure joy,0
+cool breeze,0
+lovely day,0
+nice work,0
+great job,0
+fine art,0
+best luck,0
+big hug,0
+deep calm,0
+soft light,0
+fair play,0
+safe trip,0
+shut up,1
+go die,1
+get lost,1
+buzz off,1
+drop dead,1
+eat dirt,1
+choke hard,1
+burn fast,1
+rot away,1
+fade out,1
+break down,1
+back off,1
+move on,1
+screw off,1
+piss off,1
+beat it,1
+hack off,1
+walk away,1
+stay gone,1
+never return,1
+thank you,0
+bless you,0
+love you,0
+miss you,0
+hug you,0
+help you,0
+support you,0
+cheer you,0
+calm you,0
+guide you,0
+stay strong,0
+be happy,0
+feel better,0
+keep smiling,0
+dream big,0
+rise high,0
+shine bright,0
+stay safe,0
+take care,0
+dumb bitch,1
+fat slob,1
+ugly git,1
+stupid nerd,1
+lazy slug,1
+filthy swine,1
+greasy rat,1
+worthless heap,1
+pathetic mess,1
+sorry sight,1
+sad excuse,1
+gross troll,1
+vile creep,1
+dirty liar,1
+crappy noob,1
+lame duck,1
+dead beat,1
+toxic twit,1
+fake geek,1
+basic witch,1
+good mood,0
+sweet dream,0
+bright spark,0
+kind word,0
+true love,0
+calm sea,0
+warm fire,0
+gentle touch,0
+pure gold,0
+cool cat,0
+lovely view,0
+nice shot,0
+great show,0
+fine wine,0
+best day,0
+big smile,0
+deep breath,0
+soft voice,0
+fair call,0
+safe space,0
+kill yourself,1
+hang yourself,1
+cut deep,1
+jump high,1
+bleed slow,1
+crash hard,1
+rot quick,1
+choke now,1
+drown fast,1
+burn slow,1
+break neck,1
+snap bone,1
+rip skin,1
+tear heart,1
+shred pride,1
+crush hope,1
+grind bones,1
+end you,1
+delete you,1
+love always,0
+hug tight,0
+smile wide,0
+dream big,0
+hope strong,0
+stay gold,0
+be kind,0
+keep calm,0
+shine on,0
+glow up,0
+rise up,0
+lift up,0
+grow strong,0
+build up,0
+create joy,0
+share light,0
+spread love,0
+give thanks,0
+feel peace,0
+breathe deep,0
+laugh loud,0
+dance free,0
+walk tall,0
+run far,0
+sail on,0
+soar high,0
+love,0
+thanks,0
+cool,0
+awesome,0
+great,0
+nice,0
+hello,0
+hi,0
+yes,0
+okay,0
+haha,0
+wow,0
+friend,0
+team,0
+help,0
+share,0
+thanks,0
+good,0
+yay,0
+safe,0
+fuck,1
+shit,1
+idiot,1
+dumb,1
+ugly,1
+fat,1
+loser,1
+hate,1
+bitch,1
+die,1
+kill,1
+stupid,1
+trash,1
+moron,1
+slut,1
+jerk,1
+suck,1
+weirdo,1
+freak,1
+pathetic,1
+good job,0
+thank you,0
+nice work,0
+well done,0
+me too,0
+sounds good,0
+great idea,0
+no problem,0
+love this,0
+so cool,0
+you rock,0
+high five,0
+team work,0
+let's go,0
+for sure,0
+epic win,0
+be safe,0
+see you,0
+my pleasure,0
+howdy partner,0
+you idiot,1
+so stupid,1
+you suck,1
+fuck you,1
+go die,1
+shut up,1
+so ugly,1
+you're fat,1
+eat shit,1
+piss off,1
+no friends,1
+you lose,1
+total loser,1
+dumb ass,1
+kill yourself,1
+what a joke,1
+you're gay,1
+so lame,1
+freak show,1
+dumb bitch,1
+you did great,0
+that was nice,0
+I appreciate it,0
+thanks for helping,0
+you are kind,0
+sounds like fun,0
+I agree completely,0
+let's work together,0
+see you later,0
+have a good,0
+that's really cool,0
+you are welcome,0
+good morning everyone,0
+I like that,0
+that makes sense,0
+this is helpful,0
+great point there,0
+keep it up,0
+you are awesome,0
+nice meeting you,0
+you are worthless,1
+go kill yourself,1
+everyone hates you,1
+what a loser,1
+you are ugly,1
+piece of shit,1
+you are pathetic,1
+no one cares,1
+are you stupid,1
+you're a mistake,1
+just go away,1
+you're so annoying,1
+you'll get hurt,1
+I will find you,1
+you're a freak,1
+absolute trash,1
+he is a moron,1
+she's a slut,1
+fucking idiot,1
+what a moron,1
+that was really nice,0
+I really appreciate that,0
+thanks for your help,0
+you are a good friend,0
+let's collaborate on this,0
+this is great work,0
+I'm glad you're here,0
+you make a good point,0
+that's a great idea,0
+we are a team,0
+see you tomorrow then,0
+have a wonderful day,0
+you're doing a great job,0
+this looks really good,0
+I'm excited for this,0
+I agree with you,0
+that was very kind,0
+happy to help out,0
+let's get this done,0
+you can count on me,0
+you are so stupid,1
+why are you alive,1
+nobody even likes you,1
+you are a disgrace,1
+you should just die,1
+what a pathetic loser,1
+you are completely useless,1
+go crawl in a hole,1
+you're such a weirdo,1
+I hope you fail,1
+you will regret this,1
+everyone knows you're a liar,1
+you're a fat bitch,1
+you look like trash,1
+just shut your mouth,1
+you're a waste of space,1
+you're going to pay,1
+what a fucking idiot,1
+are you always this dumb,1
+I hate you so much,1
+I appreciate your help today,0
+This is a really insightful comment  thanks for sharing!,0
+Hey  does anyone have the notes from the last meeting?,0
+LOL that video was hilarious 😂,0
+Amazing photo! Where was this taken?,0
+Great job on the presentation  you really nailed it.,0
+I'm looking forward to the game tonight. Go team!,0
+Thanks everyone for the birthday wishes!,0
+Can you send me the link when you get a chance?,0
+This is a great tutorial  I learned a lot.,0
+Sending this to the group chat now.,0
+I'm happy to help you with that project.,0
+What a beautiful day outside!,0
+I'm really proud of what we accomplished.,0
+Your new profile picture looks great!,0
+That's a very good point  I hadn't thought of that.,0
+Just finished the book  it was amazing!,0
+Who else is excited for the update?,0
+Let's catch up soon.,0
+This recipe looks delicious  I'm going to try it.,0
+Nobody likes you  go away,1
+Everyone in this group thinks you're a total idiot.,1
+Why don't you just do everyone a favor and delete your account?,1
+You are the ugliest person I have ever seen. Seriously.,1
+If I see you in person I'm going to punch you in the face.,1
+I'm blocking you  you're too stupid to talk to.,1
+Look at this pathetic loser trying to fit in.,1
+I hope you get what's coming to you you worthless piece of trash.,1
+Go k*ll yourself  nobody would even miss you.,1
+Stop posting your dumb opinions  no one cares.,1
+You're a fat whale  maybe try a salad?,1
+This is the stupidest comment on the entire internet.,1
+I know where you live  you better watch your back.,1
+What a fucking joke. You should be embarrassed.,1
+You're a disease and a disgrace to this community.,1
+Is your face naturally that ugly or did you pay for it?,1
+Reported for being a pathetic moron.,1
+Another brilliant comment from the village idiot.,1
+She's such a slut  I bet she's slept with the whole team.,1
+U R so gay lmao  get a life.,1
+win,0
+happy,0
+smile,0
+fun,0
+smart,0
+kind,0
+play,0
+join,0
+proud,0
+sweet,0
+cheer,0
+bravo,0
+safe,0
+super,0
+lol,0
+cute,0
+wow,0
+yes,0
+easy,0
+fail,1
+awful,1
+lost,1
+hurt,1
+lame,1
+weak,1
+nasty,1
+gross,1
+creep,1
+wimp,1
+fraud,1
+fool,1
+liar,1
+pig,1
+sad,1
+alone,1
+scum,1
+hell,1
+dead,1
+burn,1
+good try,0
+keep going,0
+so nice,0
+you're kind,0
+fast reply,0
+thanks heaps,0
+I agree,0
+that's fair,0
+my bad,0
+no worries,0
+sounds great,0
+welcome back,0
+talk soon,0
+all good,0
+perfect,0
+exactly,0
+congrats,0
+helpful,0
+let's try,0
+you first,0
+big loser,1
+so fake,1
+you reek,1
+just stop,1
+noob,1
+get lost,1
+you're dead,1
+I'm telling,1
+such a kid,1
+you cheat,1
+brain dead,1
+what a wimp,1
+ugly pic,1
+you're wrong,1
+so boring,1
+who cares,1
+you stink,1
+try harder,1
+bad idea,1
+fat pig,1
+you are smart,0
+that is correct,0
+I like this,0
+you are helping,0
+this is fun,0
+let's play again,0
+see you soon,0
+that looks great,0
+thanks for sharing,0
+you are right,0
+I trust you,0
+good effort today,0
+that's very true,0
+keep up work,0
+you did it,0
+nice to meet,0
+this is amazing,0
+great meeting you,0
+that's so kind,0
+you are strong,0
+you are a fool,1
+you are so weak,1
+that was pathetic,1
+what a freak,1
+you will fail,1
+you have no,1
+this is garbage,1
+you're a coward,1
+he is a fraud,1
+you look tired,1
+you're going down,1
+I will report,1
+what a baby,1
+you're so basic,1
+go cry somewhere,1
+this is awful,1
+you can't win,1
+no one asked,1
+this is dumb,1
+you sound stupid,1
+that's really helpful,0
+I appreciate your input,0
+this is fantastic news,0
+you are very talented,0
+that's a smart solution,0
+I'm happy to assist,0
+we make a great team,0
+thanks for the update,0
+I'm really impressed,0
+you're a lifesaver,0
+that makes perfect sense,0
+I'm looking forward to,0
+you always know what,0
+this is good progress,0
+great job everyone,0
+thanks for the invite,0
+you explained that well,0
+that's very thoughtful,0
+let's do this,0
+you're a star,0
+you are so annoying,1
+you're a total fraud,1
+I'm telling everyone,1
+you should be ashamed,1
+this is your fault,1
+you are a mistake,1
+I hope you lose,1
+you're going to fail,1
+what a waste of,1
+you're a pathetic excuse,1
+just give up already,1
+everyone thinks you're fake,1
+you have no talent,1
+you're such a disappointment,1
+this is why nobody,1
+you're a sad little,1
+I'm going to report,1
+you'll never be good,1
+you're a compulsive liar,1
+no one believes you,1
+Your contribution to the project was invaluable. Thank you!,0
+Happy birthday! Hope you have a fantastic day!,0
+I'm not sure I understand. Could you explain that part again?,0
+This is a really interesting article  thanks for posting it.,0
+Just got my tickets for the concert! So excited!,0
+I think I'll join the study group  thanks for organizing.,0
+The weather is supposed to be great this weekend.,0
+That new game update looks amazing  I can't wait to play.,0
+Does anyone know a good place to eat around here?,0
+Congratulations on your new job! You'll be great.,0
+This playlist is perfect for focusing. Thanks!,0
+I finally finished my exams! Time to relax.,0
+That's a really good question  let me check.,0
+Your dog is adorable! What breed is he?,0
+I'm running late  I'll be there in 10 minutes.,0
+This code looks clean. Nice work.,0
+I completely agree with your analysis.,0
+Let's schedule a meeting for next week.,0
+Good luck on your exam tomorrow!,0
+This thread has been really informative.,0
+You're such an attention-seeking loser  just get off the internet.,1
+If you post that picture  I will find you and make you regret it.,1
+Everyone on this forum knows you're a liar. Stop trying.,1
+Are you actually that stupid or are you just pretending?,1
+Another idiotic comment from the person no one likes.,1
+I'm going to find your family and show them what a disgrace you are.,1
+You look disgusting in that photo  maybe try deleting it.,1
+It's pathetic how desperate you are for approval.,1
+Go back to the hole you crawled out of trash.,1
+I've seen smarter things written by a toddler. Fucking moron.,1
+This is the worst take I've ever seen. You should be banned.,1
+Watch your back. People like you don't last long here.,1
+He's such a creep  I'm pretty sure he's a predator.,1
+Someone should hack this idiot and delete their account for them.,1
+You're a fat  ugly pig. No wonder you're still single.,1
+Stop trying to sound smart  you're just embarrassing yourself.,1
+This whole thread is cancer because of you.,1
+I hope you get fired for being this incompetent.,1
+Literally no one cares about your pathetic life story.,1
+You're a waste of oxygen. Just do us all a favor and disappear.,1
+you are great,0
+that was fun,0
+I like it,0
+thanks for this,0
+good job team,0
+let's do this,0
+keep it up,0
+sounds like plan,0
+you are right,0
+I will help,0
+that is cool,0
+what a day,0
+see you then,0
+have a nice,0
+thanks a lot,0
+you are welcome,0
+that is true,0
+good point there,0
+we can try,0
+let's work together,0
+that's really helpful,0
+I'm on it,0
+sounds good to,0
+I get it,0
+that makes sense,0
+this is new,0
+what a game,0
+you did well,0
+nice seeing you,0
+that's very kind,0
+I am here,0
+we are ready,0
+this is interesting,0
+I will check,0
+thanks for coming,0
+great work today,0
+that is awesome,0
+you are smart,0
+let me know,0
+all the best,0
+I'm so happy,0
+that was fast,0
+good for you,0
+this is fine,0
+I agree totally,0
+that's a fact,0
+you are talented,0
+this is lovely,0
+what a surprise,0
+that is neat,0
+you are invited,0
+let's get started,0
+I am grateful,0
+this is useful,0
+count me in,0
+I am excited,0
+that is perfect,0
+you are amazing,0
+we are friends,0
+I am listening,0
+this is great,0
+good to know,0
+that's the spirit,0
+you are helpful,0
+this is my,0
+we can win,0
+I respect that,0
+that is fair,0
+you are funny,0
+this is safe,0
+I am proud,0
+we support you,0
+that's all folks,0
+you are cool,0
+this is important,0
+I am ready,0
+we will see,0
+that is enough,0
+you are strong,0
+this is quality,0
+I am sure,0
+we are partners,0
+that is clear,0
+you are inspiring,0
+this is progress,0
+I am okay,0
+we are trying,0
+that is sweet,0
+you are focused,0
+this is art,0
+I am impressed,0
+we are close,0
+that is right,0
+you are focused,0
+this is home,0
+I am trying,0
+we are done,0
+that is brilliant,0
+you are prepared,0
+this is peaceful,0
+I am learning,0
+we are happy,0
+that is wonderful,0
+you are creative,0
+this is my favorite,0
+I am here,0
+we are family,0
+that is lovely,0
+you are brave,0
+this is exciting,0
+I am fine,0
+we are united,0
+that is positive,0
+you are a star,0
+this is the way,0
+I am content,0
+we are winning,0
+that is beautiful,0
+you are a winner,0
+this is teamwork,0
+I am thankful,0
+you are dumb,1
+what a loser,1
+you are ugly,1
+go away creep,1
+this is trash,1
+you are weak,1
+just shut up,1
+you are fat,1
+what a joke,1
+this is stupid,1
+you are annoying,1
+kill your self,1
+you are pathetic,1
+what a mess,1
+this is awful,1
+you are a liar,1
+I hate you,1
+you are nothing,1
+what a waste,1
+this is garbage,1
+you are boring,1
+no one cares,1
+you are a child,1
+what a psycho,1
+this is pointless,1
+you are a fake,1
+you are gross,1
+what a wimp,1
+this is lame,1
+you are clueless,1
+you are a pig,1
+what a failure,1
+this is sad,1
+you are a joke,1
+you are weird,1
+what a baby,1
+this is why,1
+you are a coward,1
+you are disgusting,1
+what a moron,1
+this is terrible,1
+you are a zero,1
+you are wrong,1
+what a tool,1
+this is the worst,1
+you are a fool,1
+you are garbage,1
+what a freak,1
+this is nonsense,1
+you are a fraud,1
+you are irrelevant,1
+what a bitch,1
+this is unbearable,1
+you are a brat,1
+you are dense,1
+what a shame,1
+this is hell,1
+you are a pest,1
+you are predictable,1
+what a stiff,1
+this is maddening,1
+you are a slob,1
+you are spineless,1
+what a user,1
+this is your fault,1
+you are a wannabe,1
+you are wrong,1
+what a weirdo,1
+this is not,1
+you are a wimp,1
+you are useless,1
+what a crybaby,1
+this is ridiculous,1
+you are a chicken,1
+you are hopeless,1
+what a disaster,1
+this is ugly,1
+you are a disease,1
+you are ignorant,1
+what a snake,1
+this is revolting,1
+you are a failure,1
+you are nasty,1
+what a loser,1
+this is sickening,1
+you are a follower,1
+you are nobody,1
+what a rat,1
+this is disgusting,1
+you are a monster,1
+you are selfish,1
+what a mess,1
+this is pathetic,1
+you are a parasite,1
+you are shallow,1
+what a nightmare,1
+this is unbearable,1
+you are a pig,1
+you are slow,1
+what a zero,1
+this is crazy,1
+you are a troll,1
+you are so,1
+what a waste,1
+this is bad,1
+you are a zombie,1
+you are trash,1
+what a joke,1
+this is wrong,1
+you are alone,1
+you are toxic,1
+what a moron,1
+this is not okay,1
+I'm really looking forward to our collaboration.,0
+Thank you for taking the time to explain that.,0
+This is a very well-thought-out plan.,0
+I appreciate the effort you put into this.,0
+That's a fantastic idea  we should try it.,0
+You did an excellent job on the presentation.,0
+I'm glad we are on the same team.,0
+This was incredibly helpful  thank you.,0
+I learned a lot from your comment.,0
+Congratulations on your achievement!,0
+I hope you have a wonderful day.,0
+It's great to see everyone working together.,0
+This is a major improvement  great work.,0
+I'm excited to see the final result.,0
+You always bring such great energy.,0
+That's a very fair point of view.,0
+I'm happy to help you with that task.,0
+This community is so supportive and kind.,0
+Your perspective is really valuable.,0
+I'm proud of the work we have done.,0
+Let me know if you need any assistance.,0
+This discussion has been very productive.,0
+You are a very talented individual.,0
+I'm grateful for your friendship.,0
+That's a very kind thing to say.,0
+We should definitely do this again soon.,0
+This is exactly what I was looking for.,0
+You have my full support on this.,0
+It's a pleasure to work with you.,0
+This is a great resource for everyone.,0
+I'm sending positive thoughts your way.,0
+Your contribution made a big difference.,0
+This is a topic I'm very interested in.,0
+I'm glad you decided to join us.,0
+This project is coming along nicely.,0
+You explained that perfectly.,0
+I'm impressed by your dedication.,0
+Let's keep up the good momentum.,0
+This is a safe space for discussion.,0
+Your hard work is paying off.,0
+I think you'll do great in this role.,0
+This is a very insightful question.,0
+I'm happy to see you succeeding.,0
+That's a very reasonable approach.,0
+We are all here to support you.,0
+This is a challenge  but we can do it.,0
+You have a great sense of humor.,0
+I'm optimistic about our chances.,0
+This is a perfect example of teamwork.,0
+Your positive attitude is contagious.,0
+I am really enjoying this conversation.,0
+This is a great opportunity for all of us.,0
+Your feedback is always constructive.,0
+I'm confident in your ability to lead.,0
+That's a goal worth striving for.,0
+You are making a real difference.,0
+This is a very peaceful and relaxing place.,0
+I'm happy to share my knowledge.,0
+That's a great way to look at it.,0
+You are an inspiration to many.,0
+This is a topic that matters to me.,0
+I'm here if you need to talk.,0
+You have a bright future ahead of you.,0
+This is a very well-written article.,0
+I respect your opinion on this matter.,0
+You've earned a well-deserved break.,0
+This is a memory I will cherish.,0
+I'm glad we could resolve this amicably.,0
+You are a valued member of this group.,0
+This is a great achievement for our team.,0
+I'm learning so much from this course.,0
+You are always so reliable and helpful.,0
+This is a very welcoming community.,0
+I'm excited about the possibilities.,0
+That's a very generous offer  thank you.,0
+You are handling this situation well.,0
+This is a testament to your hard work.,0
+I'm sure you will make the right choice.,0
+This is a wonderful piece of art.,0
+You have a lot of potential.,0
+I'm looking forward to the next update.,0
+This is a fair and balanced report.,0
+You are a true professional.,0
+This is a great place to be.,0
+I'm glad to be a part of this.,0
+You always find a way to make me smile.,0
+This is a very important discussion to have.,0
+I'm sure we can find a solution.,0
+You are a great listener.,0
+This is a very effective strategy.,0
+I'm proud to call you my friend.,0
+This is a complex problem  but we're making progress.,0
+You are a credit to this team.,0
+This is a very encouraging start.,0
+I'm thankful for your guidance.,0
+You are a person of integrity.,0
+This is a day to celebrate.,0
+I'm sure everything will be fine.,0
+You are very perceptive.,0
+This is a moment of real growth.,0
+I'm here to support your goals.,0
+You are a joy to be around.,0
+This is a very fair assessment.,0
+I'm hopeful for a positive outcome.,0
+You are a very skilled negotiator.,0
+This is a great step forward.,0
+I'm inspired by your story.,0
+You are a role model for others.,0
+This is a task I can handle.,0
+I'm committed to making this work.,0
+You are a very thoughtful person.,0
+This is a new beginning for us.,0
+I'm glad you're feeling better.,0
+You are a very resilient person.,0
+This is a subject I know well.,0
+I'm ready for the next challenge.,0
+Everyone thinks you are a complete idiot.,1
+You should just delete your account and go away.,1
+Nobody here wants to listen to your stupid opinions.,1
+You are a total waste of space.,1
+I can't believe how dumb you actually are.,1
+Why don't you do us all a favor and just leave?,1
+You are the most annoying person in this group.,1
+I've seen smarter posts from a literal rock.,1
+You are a pathetic excuse for a human being.,1
+No one is surprised that you failed again.,1
+You are utterly and completely useless.,1
+I'm going to find you and make you pay.,1
+This is the stupidest thing I have ever read.,1
+You are a disgrace to this entire community.,1
+I hope something terrible happens to you.,1
+You're just a fat  ugly loser with no friends.,0
+Go crawl back into whatever hole you came from.,1
+You are a sad  pathetic little coward.,0
+Everyone is laughing at you  not with you.,0
+You should be ashamed of yourself for posting this.,1
+Your face is genuinely hard to look at.,1
+This is why everyone hates you.,1
+You are a compulsive liar and everyone knows it.,1
+I'm reporting you for being a moron.,1
+You contribute nothing of value here.,1
+You're a follower with no original thoughts.,1
+This whole project is trash because of you.,1
+You are going to regret you ever said that.,1
+I'm pretty sure you are brain-dead.,1
+Stop trying so hard  you're just embarrassing.,1
+You are a cancer on this platform.,1
+I'd rather die than agree with you.,1
+You are a worthless piece of garbage.,1
+Your family must be so disappointed in you.,1
+Are you always this dense  or is it special for me?,1
+You are a plague and I want you gone.,1
+This is the most pathetic attempt I've ever seen.,1
+I hope you get banned from this site forever.,1
+You're a pathetic wannabe who will never be good.,1
+You look like you smell bad.,1
+Everyone here thinks you are a joke.,1
+You are a talentless hack.,1
+I'm going to make your life a living hell.,1
+You are the definition of a failure.,1
+This is absolute nonsense from an idiot.,1
+You are a spineless jellyfish.,1
+I'm going to expose you for the fraud you are.,1
+You're a sad little troll living in a basement.,1
+Your very existence is annoying.,1
+You are a terrible person and you should feel bad.,1
+I'm surprised you can even type  you're so stupid.,1
+This is garbage  and you are garbage for posting it.,1
+You have no future and no skills.,1
+You are a weirdo and you should seek help.,1
+I'm going to make sure you get kicked out.,1
+You are the reason this group is failing.,1
+Nobody cares about you or your pathetic life.,1
+You are a disease that needs to be cured.,1
+You're just a kid  go back to your coloring book.,1
+You're a creepy stalker and everyone knows it.,1
+I can't stand looking at your stupid face.,1
+You are a complete and total disappointment.,1
+This is the worst idea in human history.,1
+You are a shallow  vain  and empty person.,1
+I'm going to enjoy watching you fail.,1
+You are a coward who hides behind a screen.,1
+I'm going to find out where you live.,1
+This is proof that you are an idiot.,1
+You're a two-faced liar and a backstabber.,1
+You are a drain on society.,1
+You're the ugliest thing I've seen all day.,1
+This is your final warning  creep.,1
+You are a sad  lonely  pathetic person.,1
+This entire post is a cry for help.,1
+You're a psycho and you need to be locked up.,1
+I'm going to destroy everything you care about.,1
+You are a weak-minded follower.,1
+This is the dumbest comment on the internet.,1
+You are a sad  desperate attention-seeker.,1
+I'm blocking you I can't stand your stupidity.,1
+You are a waste of good air.,1
+You're a parasite feeding off everyone else.,1
+This is exactly why you have no friends.,1
+You are a national embarrassment.,1
+You're a racist pig.,1
+I hope you get hit by a bus.,1
+You are a sexist  misogynistic jerk.,1
+This is the peak of your pathetic life.,1
+You are a burden to everyone around you.,1
+You're a snowflake  go cry to your mom.,1
+I will hunt you down.,1
+This is the most ignorant trash I've ever seen.,1
+You are a brainwashed sheep.,1
+You're a disgusting human being.,1
+I'm going to make you eat those words.,1
+You are a terrible example for everyone.,1
+This is a new level of stupid.,1
+You're a monster and you don't deserve happiness.,1
+I'm going to have you fired from your job.,1
+You are a horrible  vile person.,1
+This is why you will always be alone.,1
+You are a poor excuse for a man.,1
+You are a poor excuse for a woman.,1
+You're a nothing  a zero,1
+I hope you choke on your next meal.,1
+You are a blight on this world.,1
+This is proof you're a cheater.,1
+You are a sad  old  bitter person.,1
+I'm going to make you famous for being an idiot.,1
+You're a rat  and you'll get what's coming.,1
+This is why no one will ever love you.,1
+You are a weak link in the chain.,1
+I'm going to make sure you are never hired.,1
+You are a stain on your family's name.,1
+This is the last time you'll cross me.,1
+You're a spoiled brat who needs a lesson.,1
+love,0
+you are dumb,1
+Thanks for being such a great friend,0
+smart,0
+cool,0
+well done,0
+moron,1
+nice,0
+dumb,1
+dumb,1
+you are so stupid,1
+I appreciate your help today,0
+shut up,1
+Thanks for being such a great friend,0
+idiot,1
+stupid kid,1
+nice work,0
+Let’s support each other and grow together,0
+"You are doing your best, keep going",0
+you are kind,0
+go cry you loser,1
+Why are you even here?,1
+"Stop talking, no one cares about you",1
+I appreciate your help today,0
+you are kind,0
+die loser,1
+loser,1
+I hope you have an amazing day,0
+Thanks for being such a great friend,0
+I appreciate your help today,0
+kind,0
+you look nice,0
+nice work,0
+you smell bad,1
+thank you,0
+nice work,0
+You're such a waste of space,1
+die loser,1
+"Stop talking, no one cares about you",1
+I hope you have an amazing day,0
+I'm proud of your progress,0
+you are very kind,0
+You did a wonderful job on the project,0
+loser,1
+stay strong,0
+Your post made me smile today,0
+you smell bad,1
+trash talk,1
+"You’ll never succeed, idiot",1
+you did well,0
+you are kind,0
+I hope you have an amazing day,0
+you are so talented,0
+"Nobody likes you, go away",1
+kind,0
+"Stop talking, no one cares about you",1
+You bring so much positivity here,0
+You are the worst person ever,1
+"Go cry somewhere else, loser",1
+Your post made me smile today,0
+cool,0
+peace,0
+you are very kind,0
+you are trash,1
+trash talk,1
+You are the worst person ever,1
+brave,0
+love yourself,0
+I appreciate your help today,0
+you are very kind,0
+I appreciate your help today,0
+ugly face,1
+Why are you even here?,1
+be happy,0
+you smell bad,1
+you are kind,0
+You bring so much positivity here,0
+you are trash,1
+You look disgusting in that picture,1
+you are so talented,0
+I'm proud of your progress,0
+"You’ll never succeed, idiot",1
+"You are doing your best, keep going",0
+That was a really thoughtful comment,0
+that was really nice,0
+go cry you loser,1
+well done,0
+love,0
+no one likes you,1
+You bring so much positivity here,0
+go away,1
+love yourself,0
+you suck,1
+thanks for your help,0
+die loser,1
+I appreciate your help today,0
+Thanks for being such a great friend,0
+kind,0
+that was amazing,0
+Your post made me smile today,0
+love,0
+you smell bad,1
+you are trash,1
+nice work,0
+smart,0
+idiot,1
+stupid kid,1
+"Go cry somewhere else, loser",1
+you are very kind,0
+you look ugly,1
+love yourself,0
+I'm proud of your progress,0
+you look ugly,1
+You're such a waste of space,1
+kind,0
+You look disgusting in that picture,1
+That was a really thoughtful comment,0
+Let’s support each other and grow together,0
+good job,0
+you are so ugly,1
+you are kind,0
+you did great,0
+stay strong,0
+That was a really thoughtful comment,0
+you look nice,0
+I'm proud of your progress,0
+You're such a waste of space,1
+Thanks for being such a great friend,0
+nobody likes you,1
+ugly face,1
+kind,0
+well done,0
+I'm proud of your progress,0
+that was really nice,0
+Your post made me smile today,0
+Your face makes me sick,1
+nice work,0
+moron,1
+brave,0
+"You are doing your best, keep going",0
+I'm proud of your progress,0
+"You are doing your best, keep going",0
+you are so talented,0
+"You are doing your best, keep going",0
+"Nobody likes you, go away",1
+"Go cry somewhere else, loser",1
+That was a really thoughtful comment,0
+stupid kid,1
+thanks for your help,0
+You’re so dumb it hurts,1
+Let’s support each other and grow together,0
+go cry you loser,1
+nobody likes you,1
+stupid kid,1
+love yourself,0
+nobody likes you,1
+that was amazing,0
+ugly face,1
+stupid kid,1
+smart,0
+go away,1
+You bring so much positivity here,0
+ugly,1
+"Stop talking, no one cares about you",1
+peace,0
+you are kind,0
+"Stop talking, no one cares about you",1
+Thanks for being such a great friend,0
+loser,1
+that was amazing,0
+trash talk,1
+you did great,0
+brave,0
+nobody,1
+go away,1
+Your post made me smile today,0
+You bring so much positivity here,0
+dumb,1
+You bring so much positivity here,0
+You’re so dumb it hurts,1
+I appreciate your help today,0
+"Nobody likes you, go away",1
+Your face makes me sick,1
+thanks for your help,0
+"Nobody likes you, go away",1
+That was a really thoughtful comment,0
+You are the worst person ever,1
+you smell bad,1
+you smell bad,1
+sweet,0
+kind,0
+cool,0
+nobody likes you,1
+You are the worst person ever,1
+you look ugly,1
+I hope you have an amazing day,0
+Thanks for being such a great friend,0
+loser,1
+you are very kind,0
+That was a really thoughtful comment,0
+Thanks for being such a great friend,0
+nice,0
+you are so talented,0
+I appreciate your help today,0
+You did a wonderful job on the project,0
+you smell bad,1
+I'm proud of your progress,0
+stupid kid,1
+You're such a waste of space,1
+you are trash,1
+Your post made me smile today,0
+I'm proud of your progress,0
+dumb,1
+That was a really thoughtful comment,0
+you are kind,0
+you are trash,1
+you are so talented,0
+stupid kid,1
+You look disgusting in that picture,1
+cool,0
+"Stop talking, no one cares about you",1
+you smell bad,1
+You’re so dumb it hurts,1
+hate,1
+You bring so much positivity here,0
+go cry you loser,1
+"You are doing your best, keep going",0
+Your post made me smile today,0
+moron,1
+you are trash,1
+kind,0
+you did great,0
+happy,0
+I appreciate your help today,0
+cool,0
+no one likes you,1
+stay strong,0
+you are dumb,1
+You look disgusting in that picture,1
+Thanks for being such a great friend,0
+cool,0
+you are so talented,0
+I appreciate your help today,0
+idiot,1
+no one likes you,1
+ugly face,1
+love yourself,0
+love,0
+you are kind,0
+That was a really thoughtful comment,0
+You’re so dumb it hurts,1
+"You are doing your best, keep going",0
+ugly face,1
+happy,0
+You did a wonderful job on the project,0
+stay strong,0
+You're such a waste of space,1
+trash,1
+smart,0
+you smell bad,1
+love,0
+you are so ugly,1
+you suck,1
+you are very kind,0
+I hope you have an amazing day,0
+you are so stupid,1
+go away,1
+hate,1
+You did a wonderful job on the project,0
+nobody likes you,1
+hate you,1
+Your face makes me sick,1
+You did a wonderful job on the project,0
+You’re so dumb it hurts,1
+trash,1
+nice work,0
+brave,0
+"Go cry somewhere else, loser",1
+no one likes you,1
+you are dumb,1
+nice,0
+thanks for your help,0
+love yourself,0
+ugly face,1
+nice work,0
+cool,0
+"Nobody likes you, go away",1
+"You’ll never succeed, idiot",1
+idiot,1
+That was a really thoughtful comment,0
+Your post made me smile today,0
+"Nobody likes you, go away",1
+ugly,1
+you are kind,0
+You bring so much positivity here,0
+no one likes you,1
+you are dumb,1
+well done,0
+Why are you even here?,1
+trash,1
+You're such a waste of space,1
+Thanks for being such a great friend,0
+You bring so much positivity here,0
+you are very kind,0
+happy,0
+you suck,1
+You are the worst person ever,1
+I appreciate your help today,0
+idiot,1
+"Stop talking, no one cares about you",1
+you are so stupid,1
+freak,1
+you did great,0
+you are very kind,0
+go away,1
+You look disgusting in that picture,1
+you look ugly,1
+you look ugly,1
+you look nice,0
+brave,0
+I hope you have an amazing day,0
+love,0
+be happy,0
+well done,0
+trash,1
+Your post made me smile today,0
+happy,0
+great,0
+dumb,1
+no one likes you,1
+"Nobody likes you, go away",1
+freak,1
+that was amazing,0
+You’re so dumb it hurts,1
+"Stop talking, no one cares about you",1
+you are dumb,1
+hate,1
+hate you,1
+trash talk,1
+ugly face,1
+Your post made me smile today,0
+I'm proud of your progress,0
+You’re so dumb it hurts,1
+I appreciate your help today,0
+you suck,1
+that was amazing,0
+you did great,0
+dumb,1
+that was really nice,0
+hate,1
+You did a wonderful job on the project,0
+dumb,1
+"Go cry somewhere else, loser",1
+I hope you have an amazing day,0
+ugly face,1
+"Nobody likes you, go away",1
+Your face makes me sick,1
+"Stop talking, no one cares about you",1
+That was a really thoughtful comment,0
+that was amazing,0
+nobody,1
+love,0
+that was really nice,0
+you are so ugly,1
+go away,1
+kind,0
+I appreciate your help today,0
+you look nice,0
+You are the worst person ever,1
+trash talk,1
+"Nobody likes you, go away",1
+you are dumb,1
+you are so stupid,1
+you look ugly,1
+"You’ll never succeed, idiot",1
+go cry you loser,1
+no one likes you,1
+sweet,0
+I appreciate your help today,0
+You’re so dumb it hurts,1
+thank you,0
+I'm proud of your progress,0
+I hope you have an amazing day,0
+you are so stupid,1
+you are so talented,0
+"You’ll never succeed, idiot",1
+Why are you even here?,1
+You look disgusting in that picture,1
+that was amazing,0
+you smell bad,1
+hate you,1
+stupid,1
+you did well,0
+you are trash,1
+die loser,1
+you did great,0
+go cry you loser,1
+you are very kind,0
+loser,1
+Let’s support each other and grow together,0
+you are trash,1
+you are kind,0
+You are the worst person ever,1
+you smell bad,1
+freak,1
+"Nobody likes you, go away",1
+love,0
+"Stop talking, no one cares about you",1
+good job,0
+go cry you loser,1
+I appreciate your help today,0
+You're such a waste of space,1
+Thanks for being such a great friend,0
+you smell bad,1
+nice,0
+well done,0
+you smell bad,1
+I'm proud of your progress,0
+You bring so much positivity here,0
+Your face makes me sick,1
+I appreciate your help today,0
+You look disgusting in that picture,1
+sweet,0
+you are very kind,0
+you are trash,1
+Your post made me smile today,0
+peace,0
+Your face makes me sick,1
+you look ugly,1
+you are so stupid,1
+you did great,0
+nobody likes you,1
+That was a really thoughtful comment,0
+I appreciate your help today,0
+"Go cry somewhere else, loser",1
+"You are doing your best, keep going",0
+You’re so dumb it hurts,1
+You are the worst person ever,1
+well done,0
+idiot,1
+freak,1
+thank you,0
+you are trash,1
+I appreciate your help today,0
+nobody likes you,1
+nobody,1
+you are so stupid,1
+die loser,1
+trash,1
+you are dumb,1
+stupid,1
+that was amazing,0
+you are so stupid,1
+"You are doing your best, keep going",0
+brave,0
+You did a wonderful job on the project,0
+Your post made me smile today,0
+cool,0
+be happy,0
+nice work,0
+good job,0
+nobody likes you,1
+go cry you loser,1
+thank you,0
+nobody likes you,1
+go away,1
+thanks for your help,0
+nobody,1
+nobody,1
+you are dumb,1
+"Stop talking, no one cares about you",1
+You’re so dumb it hurts,1
+Your face makes me sick,1
+I appreciate your help today,0
+you are kind,0
+You did a wonderful job on the project,0
+You did a wonderful job on the project,0
+"Nobody likes you, go away",1
+stay strong,0
+love yourself,0
+peace,0
+you suck,1
+well done,0
+You look disgusting in that picture,1
+moron,1
+be happy,0
+You’re so dumb it hurts,1
+"Nobody likes you, go away",1
+trash talk,1
+"You are doing your best, keep going",0
+you are so ugly,1
+ugly face,1
+Thanks for being such a great friend,0
+cool,0
+stupid,1
+you are very kind,0
+"Go cry somewhere else, loser",1
+you are very kind,0
+well done,0
+nobody likes you,1
+Your post made me smile today,0
+Let’s support each other and grow together,0
+"Go cry somewhere else, loser",1
+Your face makes me sick,1
+"Stop talking, no one cares about you",1
+you are kind,0
+idiot,1
+That was a really thoughtful comment,0
+Thanks for being such a great friend,0
+love,0
+you look nice,0
+"You’ll never succeed, idiot",1
+you are very kind,0
+shut up,1
+"Go cry somewhere else, loser",1
+"Go cry somewhere else, loser",1
+nice work,0
+you smell bad,1
+stupid,1
+Why are you even here?,1
+You bring so much positivity here,0
+"Stop talking, no one cares about you",1
+nice,0
+You are the worst person ever,1
+you smell bad,1
+"Stop talking, no one cares about you",1
+no one likes you,1
+hate you,1
+"Stop talking, no one cares about you",1
+moron,1
+you are so talented,0
+you did well,0
+nobody,1
+"You are doing your best, keep going",0
+sweet,0
+"You are doing your best, keep going",0
+you look nice,0
+you are dumb,1
+kind,0
+no one likes you,1
+shut up,1
+dumb,1
+Your post made me smile today,0
+I'm proud of your progress,0
+Let’s support each other and grow together,0
+go cry you loser,1
+Why are you even here?,1
+Thanks for being such a great friend,0
+you are so stupid,1
+I'm proud of your progress,0
+Let’s support each other and grow together,0
+you did great,0
+cool,0
+you are so talented,0
+Your face makes me sick,1
+stupid kid,1
+cool,0
+you did great,0
+you are so talented,0
+You're such a waste of space,1
+Why are you even here?,1
+Let’s support each other and grow together,0
+you are so talented,0
+"Go cry somewhere else, loser",1
+"You are doing your best, keep going",0
+stay strong,0
+Your face makes me sick,1
+be happy,0
+you look nice,0
+You're such a waste of space,1
+you are so stupid,1
+I'm proud of your progress,0
+kind,0
+freak,1
+loser,1
+trash talk,1
+You’re so dumb it hurts,1
+"You’ll never succeed, idiot",1
+ugly,1
+You look disgusting in that picture,1
+you smell bad,1
+you did well,0
+you are dumb,1
+go cry you loser,1
+loser,1
+you are so stupid,1
+you are kind,0
+"You’ll never succeed, idiot",1
+you did great,0
+You look disgusting in that picture,1
+kind,0
+be happy,0
+You did a wonderful job on the project,0
+Your face makes me sick,1
+I appreciate your help today,0
+ugly,1
+You’re so dumb it hurts,1
+Why are you even here?,1
+love,0
+I'm proud of your progress,0
+You’re so dumb it hurts,1
+stupid kid,1
+"Go cry somewhere else, loser",1
+"Go cry somewhere else, loser",1
+You did a wonderful job on the project,0
+nice,0
+you are so stupid,1
+you look ugly,1
+you suck,1
+you did well,0
+you look ugly,1
+go cry you loser,1
+You're such a waste of space,1
+You're such a waste of space,1
+you are so ugly,1
+You are the worst person ever,1
+Why are you even here?,1
+"Nobody likes you, go away",1
+You're such a waste of space,1
+idiot,1
+"Go cry somewhere else, loser",1
+you are very kind,0
+you suck,1
+kind,0
+You are the worst person ever,1
+You’re so dumb it hurts,1
+I'm proud of your progress,0
+You look disgusting in that picture,1
+you did well,0
+"You’ll never succeed, idiot",1
+smart,0
+stupid,1
+be happy,0
+"Go cry somewhere else, loser",1
+That was a really thoughtful comment,0
+ugly,1
+You are the worst person ever,1
+I hope you have an amazing day,0
+you are trash,1
+nice,0
+you did well,0
+loser,1
+thanks for your help,0
+you are dumb,1
+good job,0
+You did a wonderful job on the project,0
+I appreciate your help today,0
+you look ugly,1
+You did a wonderful job on the project,0
+Let’s support each other and grow together,0
+You bring so much positivity here,0
+good job,0
+nobody likes you,1
+idiot,1
+You are the worst person ever,1
+"You are doing your best, keep going",0
+"Go cry somewhere else, loser",1
+Thanks for being such a great friend,0
+well done,0
+"You are doing your best, keep going",0
+smart,0
+good job,0
+ugly,1
+love yourself,0
+you did well,0
+happy,0
+loser,1
+nice work,0
+"You are doing your best, keep going",0
+Why are you even here?,1
+Your post made me smile today,0
+"Nobody likes you, go away",1
+Your post made me smile today,0
+you are so ugly,1
+you are so stupid,1
+Let’s support each other and grow together,0
+I'm proud of your progress,0
+be happy,0
+"Go cry somewhere else, loser",1
+hate you,1
+You bring so much positivity here,0
+thanks for your help,0
+stay strong,0
+Let’s support each other and grow together,0
+love yourself,0
+be happy,0
+I hope you have an amazing day,0
+shut up,1
+hate you,1
+go cry you loser,1
+you look ugly,1
+you look nice,0
+stupid,1
+you are very kind,0
+freak,1
+Let’s support each other and grow together,0
+Why are you even here?,1
+"Stop talking, no one cares about you",1
+nobody,1
+happy,0
+You're such a waste of space,1
+"You’ll never succeed, idiot",1
+cool,0
+You are the worst person ever,1
+I'm proud of your progress,0
+you are dumb,1
+"You’ll never succeed, idiot",1
+that was amazing,0
+you are dumb,1
+Thanks for being such a great friend,0
+cool,0
+you are kind,0
+you are very kind,0
+"Nobody likes you, go away",1
+shut up,1
+You are the worst person ever,1
+trash,1
+You bring so much positivity here,0
+nobody,1
+thank you,0
+shut up,1
+nobody likes you,1
+go cry you loser,1
+die loser,1
+that was really nice,0
+you are very kind,0
+Your face makes me sick,1
+You are the worst person ever,1
+nobody,1
+"You are doing your best, keep going",0
+well done,0
+you are kind,0
+sweet,0
+you are very kind,0
+nobody likes you,1
+Your face makes me sick,1
+you look nice,0
+you suck,1
+"Nobody likes you, go away",1
+thanks for your help,0
+nice work,0
+"You’ll never succeed, idiot",1
+you are so talented,0
+shut up,1
+sweet,0
+love yourself,0
+you are dumb,1
+hate you,1
+love yourself,0
+stupid,1
+be happy,0
+good job,0
+you did great,0
+sweet,0
+ugly,1
+You're such a waste of space,1
+you are so talented,0
+happy,0
+You are the worst person ever,1
+moron,1
+you are dumb,1
+"Stop talking, no one cares about you",1
+"You are doing your best, keep going",0
+that was really nice,0
+you are trash,1
+You bring so much positivity here,0
+freak,1
+nobody likes you,1
+go away,1
+You're such a waste of space,1
+trash,1
+that was amazing,0
+go away,1
+That was a really thoughtful comment,0
+ugly face,1
+I hope you have an amazing day,0
+dumb,1
+Let’s support each other and grow together,0
+ugly face,1
+You’re so dumb it hurts,1
+you are very kind,0
+peace,0
+you are so ugly,1
+dumb,1
+well done,0
+good job,0
+smart,0
+trash talk,1
+trash,1
+You look disgusting in that picture,1
+You bring so much positivity here,0
+you suck,1
+I hope you have an amazing day,0
+stay strong,0
+moron,1
+thank you,0
+that was really nice,0
+kind,0
+moron,1
+happy,0
+Your face makes me sick,1
+you did great,0
+ugly face,1
+Thanks for being such a great friend,0
+die loser,1
+you are kind,0
+You look disgusting in that picture,1
+you suck,1
+I hope you have an amazing day,0
+you are kind,0
+I hope you have an amazing day,0
+you smell bad,1
+freak,1
+happy,0
+no one likes you,1
+ugly,1
+hate you,1
+sweet,0
+You did a wonderful job on the project,0
+ugly,1
+no one likes you,1
+peace,0
+love yourself,0
+cool,0
+That was a really thoughtful comment,0
+You look disgusting in that picture,1
+you are so ugly,1
+you did well,0
+you are so talented,0
+I'm proud of your progress,0
+you are so talented,0
+You look disgusting in that picture,1
+ugly face,1
+You look disgusting in that picture,1
+ugly face,1
+you are so ugly,1
+nice work,0
+nice work,0
+nice,0
+stay strong,0
+nobody,1
+you are so stupid,1
+I appreciate your help today,0
+ugly,1
+I'm proud of your progress,0
+that was amazing,0
+I hope you have an amazing day,0
+stay strong,0
+go away,1
+go cry you loser,1
+Let’s support each other and grow together,0
+you did well,0
+cool,0
+I'm proud of your progress,0
+stupid,1
+sweet,0
+nobody likes you,1
+You're such a waste of space,1
+You're such a waste of space,1
+you did well,0
+you are so stupid,1
+good job,0
+great,0
+I hope you have an amazing day,0
+go away,1
+Why are you even here?,1
+You are the worst person ever,1
+smart,0
+Your face makes me sick,1
+You did a wonderful job on the project,0
+you are so stupid,1
+well done,0
+peace,0
+you suck,1
+nice,0
+you are kind,0
+peace,0
+Let’s support each other and grow together,0
+hate you,1
+thank you,0
+"Stop talking, no one cares about you",1
+Thanks for being such a great friend,0
+"Go cry somewhere else, loser",1
+That was a really thoughtful comment,0
+good job,0
+you look nice,0
+Why are you even here?,1
+"Stop talking, no one cares about you",1
+thanks for your help,0
+"Nobody likes you, go away",1
+You’re so dumb it hurts,1
+smart,0
+loser,1
+well done,0
+You did a wonderful job on the project,0
+Your face makes me sick,1
+You are the worst person ever,1
+Why are you even here?,1
+go cry you loser,1
+That was a really thoughtful comment,0
+you did well,0
+I hope you have an amazing day,0
+thanks for your help,0
+hate you,1
+"You’ll never succeed, idiot",1
+good job,0
+thank you,0
+moron,1
+You bring so much positivity here,0
+I hope you have an amazing day,0
+go cry you loser,1
+You bring so much positivity here,0
+"Go cry somewhere else, loser",1
+"Nobody likes you, go away",1
+"Stop talking, no one cares about you",1
+you are trash,1
+love yourself,0
+trash,1
+brave,0
+that was amazing,0
+you smell bad,1
+ugly face,1
+I hope you have an amazing day,0
+moron,1
+"Stop talking, no one cares about you",1
+You did a wonderful job on the project,0
+trash talk,1
+You did a wonderful job on the project,0
+ugly,1
+peace,0
+you smell bad,1
+that was amazing,0
+You're such a waste of space,1
+you are so ugly,1
+smart,0
+you did well,0
+You bring so much positivity here,0
+Your face makes me sick,1
+shut up,1
+I appreciate your help today,0
+you look ugly,1
+I hope you have an amazing day,0
+trash talk,1
+no one likes you,1
+die loser,1
+"You’ll never succeed, idiot",1
+you are so stupid,1
+You look disgusting in that picture,1
+stupid,1
+thanks for your help,0
+You're such a waste of space,1
+You did a wonderful job on the project,0
+I'm proud of your progress,0
+nobody likes you,1
+nobody,1
+dumb,1
+idiot,1
+You are the worst person ever,1
+"Stop talking, no one cares about you",1
+go away,1
+nice work,0
+dumb,1
+shut up,1
+Your post made me smile today,0
+you are so talented,0
+you are so stupid,1
+nobody likes you,1
+Your face makes me sick,1
+shut up,1
+You did a wonderful job on the project,0
+loser,1
+"You’ll never succeed, idiot",1
+you are so stupid,1
+ugly,1
+thank you,0
+you did well,0
+stupid kid,1
+nobody likes you,1
+great,0
+thanks for your help,0
+ugly,1
+freak,1
+Let’s support each other and grow together,0
+moron,1
+Thanks for being such a great friend,0
+hate,1
+you look nice,0
+love,0
+You are the worst person ever,1
+you are kind,0
+you are so stupid,1
+you did well,0
+great,0
+"You are doing your best, keep going",0
+well done,0
+I hope you have an amazing day,0
+Why are you even here?,1
+"Stop talking, no one cares about you",1
+peace,0
+great,0
+that was really nice,0
+Your post made me smile today,0
+nice,0
+That was a really thoughtful comment,0
+"Nobody likes you, go away",1
+I hope you have an amazing day,0
+"Nobody likes you, go away",1
+die loser,1
+I'm proud of your progress,0
+Your face makes me sick,1
+You're such a waste of space,1
+That was a really thoughtful comment,0
+"Stop talking, no one cares about you",1
+love,0
+Let’s support each other and grow together,0
+that was amazing,0
+Your post made me smile today,0
+ugly,1
+"Nobody likes you, go away",1
+You look disgusting in that picture,1
+Your face makes me sick,1
+you are very kind,0
+ugly,1
+loser,1
+you look ugly,1
+That was a really thoughtful comment,0
+go away,1
+Your post made me smile today,0
+you are dumb,1
+"You’ll never succeed, idiot",1
+trash talk,1
+happy,0
+You're such a waste of space,1
+That was a really thoughtful comment,0
+trash,1
+trash talk,1
+thanks for your help,0
+You’re so dumb it hurts,1
+"Stop talking, no one cares about you",1
+You did a wonderful job on the project,0
+stupid,1
+nice work,0
+"Nobody likes you, go away",1
+ugly face,1
+"Go cry somewhere else, loser",1
+hate,1
+no one likes you,1
+you are kind,0
+you did great,0
+shut up,1
+You look disgusting in that picture,1
+that was really nice,0
+you are so ugly,1
+ugly face,1
+"Go cry somewhere else, loser",1
+I appreciate your help today,0
+peace,0
+nice work,0
+You look disgusting in that picture,1
+You bring so much positivity here,0
+Thanks for being such a great friend,0
+Let’s support each other and grow together,0
+"You’ll never succeed, idiot",1
+you did great,0
+"Go cry somewhere else, loser",1
+dumb,1
+you are so ugly,1
+die loser,1
+no one likes you,1
+thank you,0
+stupid kid,1
+thanks for your help,0
+"You are doing your best, keep going",0
+You look disgusting in that picture,1
+that was really nice,0
+you are dumb,1
+go away,1
+You're such a waste of space,1
+"Go cry somewhere else, loser",1
+thanks for your help,0
+stay strong,0
+hate,1
+trash talk,1
+no one likes you,1
+"Nobody likes you, go away",1
+thank you,0
+hate you,1
+"Stop talking, no one cares about you",1
+great,0
+you are dumb,1
+you are so talented,0
+that was really nice,0
+you look nice,0
+you look ugly,1
+You bring so much positivity here,0
+you suck,1
+no one likes you,1
+you are so talented,0
+go cry you loser,1
+smart,0
+ugly,1
+hate you,1
+You are the worst person ever,1
+sweet,0
+cool,0
+sweet,0
+loser,1
+I'm proud of your progress,0
+love yourself,0
+you are so stupid,1
+You're such a waste of space,1
+I'm proud of your progress,0
+thanks for your help,0
+brave,0
+thank you,0
+go away,1
+freak,1
+great,0
+you did great,0
+you are so ugly,1
+You are the worst person ever,1
+"Nobody likes you, go away",1
+happy,0
+good job,0
+"You’ll never succeed, idiot",1
+you are dumb,1
+loser,1
+That was a really thoughtful comment,0
+I appreciate your help today,0
+That was a really thoughtful comment,0
+die loser,1
+You did a wonderful job on the project,0
+smart,0
+"You are doing your best, keep going",0
+You are the worst person ever,1
+You’re so dumb it hurts,1
+I appreciate your help today,0
+I'm proud of your progress,0
+idiot,1
+Let’s support each other and grow together,0
+cool,0
+you look ugly,1
+cool,0
+thanks for your help,0
+You bring so much positivity here,0
+that was really nice,0
+"Go cry somewhere else, loser",1
+You're such a waste of space,1
+Your face makes me sick,1
+Your post made me smile today,0
+dumb,1
+brave,0
+you are dumb,1
+go cry you loser,1
+go cry you loser,1
+brave,0
+be happy,0
+You’re so dumb it hurts,1
+you are trash,1
+I hope you have an amazing day,0
+You’re so dumb it hurts,1
+stupid,1
+die loser,1
+you are trash,1
+that was amazing,0
+you smell bad,1
+peace,0
+Your face makes me sick,1
+be happy,0
+love yourself,0
+love yourself,0
+you look nice,0
+you are kind,0
+You bring so much positivity here,0
+Let’s support each other and grow together,0
+peace,0
+shut up,1
+Your face makes me sick,1
+dumb,1
+happy,0
+"Go cry somewhere else, loser",1
+Your face makes me sick,1
+"Nobody likes you, go away",1
+you are so ugly,1
+good job,0
+You did a wonderful job on the project,0
+nice,0
+"Stop talking, no one cares about you",1
+you are so talented,0
+Your post made me smile today,0
+thanks for your help,0
+I hope you have an amazing day,0
+be happy,0
+hate,1
+good job,0
+no one likes you,1
+Your post made me smile today,0
+that was really nice,0
+"Nobody likes you, go away",1
+you look nice,0
+I appreciate your help today,0
+go away,1
+thanks for your help,0
+be happy,0
+stay strong,0
+dumb,1
+You’re so dumb it hurts,1
+that was really nice,0
+you are so stupid,1
+kind,0
+I appreciate your help today,0
+love,0
+you did well,0
+stay strong,0
+you are so ugly,1
+dumb,1
+That was a really thoughtful comment,0
+Let’s support each other and grow together,0
+you look nice,0
+hate you,1
+"Go cry somewhere else, loser",1
+go cry you loser,1
+idiot,1
+You're such a waste of space,1
+"Go cry somewhere else, loser",1
+Why are you even here?,1
+You are the worst person ever,1
+no one likes you,1
+thanks for your help,0
+Your face makes me sick,1
+die loser,1
+You’re so dumb it hurts,1
+no one likes you,1
+"Go cry somewhere else, loser",1
+"Nobody likes you, go away",1
+hate you,1
+that was amazing,0
+brave,0
+that was amazing,0
+Why are you even here?,1
+"Nobody likes you, go away",1
+shut up,1
+you are very kind,0
+You're such a waste of space,1
+loser,1
+trash talk,1
+well done,0
+you look ugly,1
+moron,1
+You did a wonderful job on the project,0
+smart,0
+You did a wonderful job on the project,0
+you are so ugly,1
+go cry you loser,1
+you smell bad,1
+freak,1
+sweet,0
+hate,1
+you are so ugly,1
+you are so ugly,1
+"You’ll never succeed, idiot",1
+"You are doing your best, keep going",0
+sweet,0
+die loser,1
+You bring so much positivity here,0
+You did a wonderful job on the project,0
+ugly face,1
+you look nice,0
+That was a really thoughtful comment,0
+that was amazing,0
+go away,1
+thank you,0
+you are so stupid,1
+trash,1
+I appreciate your help today,0
+You’re so dumb it hurts,1
+you are so ugly,1
+you are so talented,0
+you look nice,0
+you smell bad,1
+Why are you even here?,1
+thanks for your help,0
+you are so talented,0
+trash,1
+thanks for your help,0
+thank you,0
+Thanks for being such a great friend,0
+nobody likes you,1
+thank you,0
+hate,1
+you suck,1
+you look nice,0
+"You are doing your best, keep going",0
+shut up,1
+Thanks for being such a great friend,0
+nobody likes you,1
+You bring so much positivity here,0
+you are so talented,0
+go cry you loser,1
+hate,1
+I'm proud of your progress,0
+you are so ugly,1
+you did well,0
+you are trash,1
+brave,0
+Thanks for being such a great friend,0
+idiot,1
+trash talk,1
+"You’ll never succeed, idiot",1
+You’re so dumb it hurts,1
+thank you,0
+thanks for your help,0
+you look ugly,1
+you are trash,1
+I hope you have an amazing day,0
+nobody likes you,1
+you are very kind,0
+ugly,1
+loser,1
+stupid,1
+You're such a waste of space,1
+good job,0
+"You are doing your best, keep going",0
+Thanks for being such a great friend,0
+happy,0
+Why are you even here?,1
+nobody,1
+nobody,1
+be happy,0
+You’re so dumb it hurts,1
+freak,1
+"Stop talking, no one cares about you",1
+nice,0
+nice work,0
+you look nice,0
+ugly face,1
+"Go cry somewhere else, loser",1
+nobody likes you,1
+you are trash,1
+you are kind,0
+you suck,1
+trash,1
+Your face makes me sick,1
+you suck,1
+die loser,1
+"You’ll never succeed, idiot",1
+thanks for your help,0
+you are so ugly,1
+You look disgusting in that picture,1
+go away,1
+You’re so dumb it hurts,1
+hate,1
+shut up,1
+stay strong,0
+go away,1
+I'm proud of your progress,0
+well done,0
+You look disgusting in that picture,1
+nice work,0
+Your face makes me sick,1
+idiot,1
+thanks for your help,0
+"You are doing your best, keep going",0
+hate,1
+ugly face,1
+trash talk,1
+You did a wonderful job on the project,0
+no one likes you,1
+You did a wonderful job on the project,0
+Thanks for being such a great friend,0
+"You’ll never succeed, idiot",1
+"You’ll never succeed, idiot",1
+you are trash,1
+You are the worst person ever,1
+"Stop talking, no one cares about you",1
+you are so ugly,1
+I appreciate your help today,0
+go away,1
+you did great,0
+you are very kind,0
+that was really nice,0
+You look disgusting in that picture,1
+be happy,0
+you are dumb,1
+thank you,0
+hate,1
+love yourself,0
+love yourself,0
+die loser,1
+you are so ugly,1
+thank you,0
+that was really nice,0
+ugly face,1
+you did well,0
+Why are you even here?,1
+"You’ll never succeed, idiot",1
+smart,0
+peace,0
+You look disgusting in that picture,1
+I appreciate your help today,0
+happy,0
+"You’ll never succeed, idiot",1
+nice,0
+Your face makes me sick,1
+loser,1
+you are kind,0
+you are so stupid,1
+you suck,1
+ugly face,1
+stay strong,0
+great,0
+ugly,1
+moron,1
+you look ugly,1
+"You are doing your best, keep going",0
+You bring so much positivity here,0
+well done,0
+You look disgusting in that picture,1
+Your face makes me sick,1
+be happy,0
+"Stop talking, no one cares about you",1
+trash,1
+stay strong,0
+thanks for your help,0
+"Nobody likes you, go away",1
+"You’ll never succeed, idiot",1
+"You are doing your best, keep going",0
+"Go cry somewhere else, loser",1
+You look disgusting in that picture,1
+you are dumb,1
+ugly,1
+stupid kid,1
+Thanks for being such a great friend,0
+thanks for your help,0
+nice work,0
+I'm proud of your progress,0
+you are so talented,0
+nice,0
+Your post made me smile today,0
+hate,1
+"Go cry somewhere else, loser",1
+stay strong,0
+shut up,1
+Thanks for being such a great friend,0
+shut up,1
+Why are you even here?,1
+You're such a waste of space,1
+you are very kind,0
+You are the worst person ever,1
+"Nobody likes you, go away",1
+that was really nice,0
+Let’s support each other and grow together,0
+Your face makes me sick,1
+You're such a waste of space,1
+trash talk,1
+trash,1
+nobody likes you,1
+hate you,1
+"Go cry somewhere else, loser",1
+you did great,0
+you are dumb,1
+Let’s support each other and grow together,0
+you suck,1
+you look ugly,1
+smart,0
+nobody,1
+go cry you loser,1
+"Go cry somewhere else, loser",1
+you did well,0
+great,0
+"Go cry somewhere else, loser",1
+go cry you loser,1
+shut up,1
+freak,1
+Let’s support each other and grow together,0
+"You’ll never succeed, idiot",1
+you are dumb,1
+great,0
+"You are doing your best, keep going",0
+You are the worst person ever,1
+you are so ugly,1
+nobody,1
+nice,0
+"You are doing your best, keep going",0
+nobody,1
+kind,0
+you are very kind,0
+be happy,0
+you are very kind,0
+You’re so dumb it hurts,1
+stupid,1
+You did a wonderful job on the project,0
+you look nice,0
+love,0
+I hope you have an amazing day,0
+Your post made me smile today,0
+no one likes you,1
+"You are doing your best, keep going",0
+Let’s support each other and grow together,0
+great,0
+you look ugly,1
+"You’ll never succeed, idiot",1
+you did great,0
+thank you,0
+stupid,1
+trash,1
+You're such a waste of space,1
+you are so stupid,1
+I appreciate your help today,0
+You are the worst person ever,1
+Let’s support each other and grow together,0
+stay strong,0
+great,0
+smart,0
+be happy,0
+you are so talented,0
+you are so ugly,1
+You bring so much positivity here,0
+that was amazing,0
+no one likes you,1
+I appreciate your help today,0
+happy,0
+freak,1
+"You’ll never succeed, idiot",1
+you are so ugly,1
+"You’ll never succeed, idiot",1
+"You’ll never succeed, idiot",1
+love yourself,0
+go cry you loser,1
+You look disgusting in that picture,1
+no one likes you,1
+you suck,1
+you are trash,1
+You bring so much positivity here,0
+thanks for your help,0
+"Stop talking, no one cares about you",1
+Your face makes me sick,1
+idiot,1
+you are dumb,1
+You look disgusting in that picture,1
+nice,0
+no one likes you,1
+nobody likes you,1
+you are so stupid,1
+you are kind,0
+you look ugly,1
+stupid kid,1
+"Stop talking, no one cares about you",1
+good job,0
+You bring so much positivity here,0
+stay strong,0
+You look disgusting in that picture,1
+sweet,0
+thanks for your help,0
+You're such a waste of space,1
+You did a wonderful job on the project,0
+nice work,0
+Your post made me smile today,0
+Your post made me smile today,0
+great,0
+I'm proud of your progress,0
+You bring so much positivity here,0
+that was really nice,0
+You’re so dumb it hurts,1
+"Go cry somewhere else, loser",1
+you are so stupid,1
+Your post made me smile today,0
+thanks for your help,0
+You are the worst person ever,1
+I hope you have an amazing day,0
+That was a really thoughtful comment,0
+go away,1
+peace,0
+happy,0
+hate you,1
+You’re so dumb it hurts,1
+shut up,1
+cool,0
+Your post made me smile today,0
+great,0
+Your post made me smile today,0
+you are kind,0
+you suck,1
+you suck,1
+"Go cry somewhere else, loser",1
+you suck,1
+you are trash,1
+brave,0
+trash,1
+that was amazing,0
+You did a wonderful job on the project,0
+you did great,0
+Thanks for being such a great friend,0
+I hope you have an amazing day,0
+That was a really thoughtful comment,0
+freak,1
+that was really nice,0
+you did great,0
+trash talk,1
+you are so talented,0
+you are very kind,0
+great,0
+You’re so dumb it hurts,1
+You’re so dumb it hurts,1
+you are very kind,0
+you are very kind,0
+you suck,1
+I hope you have an amazing day,0
+that was really nice,0
+that was really nice,0
+peace,0
+You did a wonderful job on the project,0
+ugly,1
+stupid kid,1
+"You’ll never succeed, idiot",1
+nice work,0
+You look disgusting in that picture,1
+that was amazing,0
+hate you,1
+Thanks for being such a great friend,0
+Your post made me smile today,0
+You look disgusting in that picture,1
+you are so stupid,1
+I hope you have an amazing day,0
+you smell bad,1
+"Nobody likes you, go away",1
+good job,0
+you are kind,0
+thank you,0
+you are so talented,0
+go cry you loser,1
+sweet,0
+brave,0
+you are so ugly,1
+You did a wonderful job on the project,0
+you are so ugly,1
+nobody likes you,1
+sweet,0
+you are very kind,0
+stupid kid,1
+Why are you even here?,1
+Your post made me smile today,0
+Your face makes me sick,1
+sweet,0
+That was a really thoughtful comment,0
+I'm proud of your progress,0
+thanks for your help,0
+nice,0
+thanks for your help,0
+hate you,1
+That was a really thoughtful comment,0
+you suck,1
+Why are you even here?,1
+that was really nice,0
+you look ugly,1
+you are kind,0
+you are so ugly,1
+no one likes you,1
+hate you,1
+That was a really thoughtful comment,0
+"Stop talking, no one cares about you",1
+dumb,1
+Let’s support each other and grow together,0
+"Nobody likes you, go away",1
+That was a really thoughtful comment,0
+You look disgusting in that picture,1
+you are kind,0
+you are trash,1
+You’re so dumb it hurts,1
+stupid,1
+Your face makes me sick,1
+I appreciate your help today,0
+"Nobody likes you, go away",1
+that was really nice,0
+I'm proud of your progress,0
+well done,0
+you are so talented,0
+I'm proud of your progress,0
+die loser,1
+"Nobody likes you, go away",1
+great,0
+trash talk,1
+love,0
+"Nobody likes you, go away",1
+hate,1
+Let’s support each other and grow together,0
+Let’s support each other and grow together,0
+"You’ll never succeed, idiot",1
+You bring so much positivity here,0
+well done,0
+you are so stupid,1
+be happy,0
+you are kind,0
+smart,0
+die loser,1
+you look nice,0
+Why are you even here?,1
+you did great,0
+I'm proud of your progress,0
+Why are you even here?,1
+Your face makes me sick,1
+stupid,1
+you look ugly,1
+happy,0
+moron,1
+shut up,1
+you did well,0
+You did a wonderful job on the project,0
+"You are doing your best, keep going",0
+Why are you even here?,1
+well done,0
+be happy,0
+you are trash,1
+You bring so much positivity here,0
+stay strong,0
+love yourself,0
+That was a really thoughtful comment,0
+Why are you even here?,1
+that was really nice,0
+Your post made me smile today,0
+stupid,1
+Why are you even here?,1
+that was really nice,0
+"You’ll never succeed, idiot",1
+good job,0
+Let’s support each other and grow together,0
+you smell bad,1
+Your post made me smile today,0
+That was a really thoughtful comment,0
+stupid kid,1
+"Go cry somewhere else, loser",1
+nice work,0
+Let’s support each other and grow together,0
+good job,0
+"Go cry somewhere else, loser",1
+thanks for your help,0
+nobody,1
+love,0
+hate,1
+happy,0
+you are trash,1
+brave,0
+"You are doing your best, keep going",0
+That was a really thoughtful comment,0
+no one likes you,1
+You’re so dumb it hurts,1
+brave,0
+no one likes you,1
+You did a wonderful job on the project,0
+you look nice,0
+you are very kind,0
+Your post made me smile today,0
+"You are doing your best, keep going",0
+"You are doing your best, keep going",0
+You're such a waste of space,1
+sweet,0
+you are so stupid,1
+well done,0
+kind,0
+you look nice,0
+I'm proud of your progress,0
+hate you,1
+thank you,0
+kind,0
+Your face makes me sick,1
+that was amazing,0
+Thanks for being such a great friend,0
+you did great,0
+You are the worst person ever,1
+shut up,1
+nobody,1
+you did well,0
+that was really nice,0
+stupid kid,1
+nice work,0
+You're such a waste of space,1
+kind,0
+nobody likes you,1
+I hope you have an amazing day,0
+trash,1
+hate you,1
+idiot,1
+dumb,1
+brave,0
+trans,1
+bullshit,1
+shit,1
+piss,1
+transgender,1
+You are the worst person ever,1
+you are very kind,0
+you smell bad,1
+you did well,0
+you are trash,1
+You’re so dumb it hurts,1
+trash talk,1
+That was a really thoughtful comment,0
+stupid kid,1
+Why are you even here?,1
+stupid kid,1
+you are very kind,0
+loser,1
+that was really nice,0
+you smell bad,1
+that was really nice,0
+happy,0
+"You are doing your best, keep going",0
+I appreciate your help today,0
+die loser,1
+idiot,1
+I hope you have an amazing day,0
+you are trash,1
+nobody likes you,1
+you are so talented,0
+"You’ll never succeed, idiot",1
+I'm proud of your progress,0
+no one likes you,1
+you are dumb,1
+Thanks for being such a great friend,0
+you look nice,0
+you are dumb,1
+nice,0
+I hope you have an amazing day,0
+you look ugly,1
+you look ugly,1
+go cry you loser,1
+that was really nice,0
+no one likes you,1
+you are so ugly,1
+You bring so much positivity here,0
+happy,0
+You're such a waste of space,1
+Let’s support each other and grow together,0
+smart,0
+you did well,0
+you are kind,0
+You're such a waste of space,1
+stay strong,0
+You’re so dumb it hurts,1
+you did well,0
+brave,0
+you did great,0
+nobody likes you,1
+"You’ll never succeed, idiot",1
+"You are doing your best, keep going",0
+you are so stupid,1
+"Nobody likes you, go away",1
+"You are doing your best, keep going",0
+that was really nice,0
+Why are you even here?,1
+you are so ugly,1
+love yourself,0
+you are dumb,1
+moron,1
+shut up,1
+good job,0
+you are so ugly,1
+you are so talented,0
+cool,0
+Let’s support each other and grow together,0
+you did great,0
+that was amazing,0
+Why are you even here?,1
+stupid kid,1
+you are so talented,0
+you are so stupid,1
+you look nice,0
+stay strong,0
+"Stop talking, no one cares about you",1
+That was a really thoughtful comment,0
+you are trash,1
+you did great,0
+You are the worst person ever,1
+good job,0
+hate,1
+You bring so much positivity here,0
+well done,0
+I'm proud of your progress,0
+Thanks for being such a great friend,0
+you look ugly,1
+peace,0
+loser,1
+you are so ugly,1
+moron,1
+you did great,0
+love,0
+that was amazing,0
+you smell bad,1
+You did a wonderful job on the project,0
+You bring so much positivity here,0
+go cry you loser,1
+"You’ll never succeed, idiot",1
+dumb,1
+trash,1
+Thanks for being such a great friend,0
+Thanks for being such a great friend,0
+die loser,1
+ugly face,1
+You look disgusting in that picture,1
+ugly face,1
+Thanks for being such a great friend,0
+You’re so dumb it hurts,1
+You are the worst person ever,1
+"Nobody likes you, go away",1
+peace,0
+freak,1
+Your face makes me sick,1
+That was a really thoughtful comment,0
+You bring so much positivity here,0
+nobody likes you,1
+love,0
+"Stop talking, no one cares about you",1
+nice work,0
+hate,1
+go cry you loser,1
+Thanks for being such a great friend,0
+stay strong,0
+brave,0
+you did well,0
+you did well,0
+that was amazing,0
+brave,0
+that was really nice,0
+Your post made me smile today,0
+You're such a waste of space,1
+"Nobody likes you, go away",1
+great,0
+loser,1
+you are so talented,0
+Your post made me smile today,0
+you are so stupid,1
+moron,1
+that was amazing,0
+"Stop talking, no one cares about you",1
+You look disgusting in that picture,1
+You bring so much positivity here,0
+You did a wonderful job on the project,0
+nobody likes you,1
+love yourself,0
+freak,1
+go away,1
+love yourself,0
+stupid kid,1
+Thanks for being such a great friend,0
+great,0
+I hope you have an amazing day,0
+you look ugly,1
+Why are you even here?,1
+I'm proud of your progress,0
+I hope you have an amazing day,0
+you are trash,1
+die loser,1
+you are so stupid,1
+"You’ll never succeed, idiot",1
+good job,0
+moron,1
+I appreciate your help today,0
+You are the worst person ever,1
+you look ugly,1
+that was amazing,0
+you are so ugly,1
+I hope you have an amazing day,0
+"Stop talking, no one cares about you",1
+stupid kid,1
+"You are doing your best, keep going",0
+kind,0
+you are so talented,0
+I'm proud of your progress,0
+nobody,1
+you are dumb,1
+you look nice,0
+no one likes you,1
+that was amazing,0
+great,0
+You look disgusting in that picture,1
+you did great,0
+Why are you even here?,1
+You did a wonderful job on the project,0
+you are so stupid,1
+Let’s support each other and grow together,0
+nice,0
+go away,1
+sweet,0
+"You are doing your best, keep going",0
+you look nice,0
+go cry you loser,1
+you did great,0
+freak,1
+You are the worst person ever,1
+freak,1
+You did a wonderful job on the project,0
+thanks for your help,0
+I appreciate your help today,0
+you are dumb,1
+no one likes you,1
+die loser,1
+"Stop talking, no one cares about you",1
+you suck,1
+"Stop talking, no one cares about you",1
+that was amazing,0
+nice work,0
+you suck,1
+kind,0
+stupid kid,1
+you are trash,1
+
